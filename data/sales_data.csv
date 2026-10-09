@@ -1,0 +1,1201 @@
+OrderID,OrderDate,Region,Segment,Category,SubCategory,Product,Quantity,UnitPrice,Discount,Sales,Profit
+ORD-100381,2024-01-04,Central,Consumer,Office Supplies,Labels,Labels Pro,5,8.02,0.2,32.07,6.21
+ORD-100773,2024-01-04,Central,Home Office,Office Supplies,Binders,Binders Basic,4,26.74,0.2,85.58,13.39
+ORD-100901,2024-01-04,South,Home Office,Furniture,Desks,Desks Pro,3,303.41,0.1,819.2,101.1
+ORD-100846,2024-01-04,West,Consumer,Office Supplies,Binders,Binders Pro,1,26.68,0.0,26.68,8.95
+ORD-100465,2024-01-05,East,Home Office,Technology,Laptops,Laptops Premium,4,844.76,0.0,3379.02,438.3
+ORD-100845,2024-01-05,East,Home Office,Technology,Laptops,Laptops Basic,1,949.82,0.3,664.88,-53.3
+ORD-100104,2024-01-06,South,Corporate,Furniture,Bookcases,Bookcases Basic,2,195.02,0.0,390.04,16.41
+ORD-101190,2024-01-06,South,Consumer,Furniture,Chairs,Chairs Plus,1,145.37,0.0,145.37,19.47
+ORD-100575,2024-01-06,South,Corporate,Office Supplies,Binders,Binders Pro,1,24.7,0.0,24.7,7.96
+ORD-100707,2024-01-06,South,Home Office,Office Supplies,Pens,Pens Premium,2,13.21,0.1,23.77,6.45
+ORD-101175,2024-01-07,West,Consumer,Office Supplies,Pens,Pens Basic,2,12.41,0.15,21.1,4.65
+ORD-100303,2024-01-08,West,Home Office,Furniture,Storage,Storage Premium,6,98.04,0.0,588.22,113.5
+ORD-101070,2024-01-08,Central,Home Office,Furniture,Bookcases,Bookcases Pro,3,188.53,0.1,509.02,14.02
+ORD-100790,2024-01-09,East,Consumer,Technology,Accessories,Accessories Basic,4,44.2,0.0,176.82,49.06
+ORD-100801,2024-01-09,West,Home Office,Furniture,Storage,Storage Plus,5,99.33,0.3,347.66,-16.58
+ORD-101038,2024-01-11,East,Consumer,Office Supplies,Binders,Binders Plus,2,22.68,0.0,45.35,13.9
+ORD-100839,2024-01-11,South,Corporate,Furniture,Bookcases,Bookcases Basic,6,181.03,0.0,1086.2,130.1
+ORD-101121,2024-01-11,East,Home Office,Office Supplies,Paper,Paper Plus,8,17.39,0.1,125.23,19.07
+ORD-100410,2024-01-11,West,Home Office,Office Supplies,Labels,Labels Premium,1,7.79,0.2,6.23,1.61
+ORD-100889,2024-01-12,South,Home Office,Technology,Laptops,Laptops Plus,1,805.68,0.15,684.82,33.44
+ORD-100415,2024-01-14,West,Corporate,Furniture,Chairs,Chairs Basic,6,143.23,0.0,859.37,119.3
+ORD-100478,2024-01-14,West,Consumer,Office Supplies,Labels,Labels Basic,5,9.94,0.15,42.22,13.64
+ORD-100233,2024-01-15,West,Corporate,Office Supplies,Pens,Pens Pro,2,13.67,0.0,27.34,9.45
+ORD-100540,2024-01-16,South,Corporate,Office Supplies,Pens,Pens Pro,1,12.24,0.3,8.57,-0.94
+ORD-100300,2024-01-16,East,Home Office,Office Supplies,Paper,Paper Plus,2,18.29,0.15,31.1,4.79
+ORD-100369,2024-01-17,South,Corporate,Office Supplies,Paper,Paper Plus,1,16.22,0.1,14.6,3.16
+ORD-100170,2024-01-17,South,Consumer,Technology,Laptops,Laptops Plus,10,996.02,0.3,6972.16,-735.64
+ORD-100272,2024-01-17,South,Corporate,Office Supplies,Labels,Labels Basic,6,9.06,0.15,46.2,9.1
+ORD-101167,2024-01-17,South,Home Office,Technology,Laptops,Laptops Plus,3,897.17,0.05,2556.94,427.29
+ORD-100821,2024-01-18,East,Consumer,Office Supplies,Labels,Labels Pro,5,9.72,0.1,43.75,13.02
+ORD-100429,2024-01-19,South,Home Office,Technology,Laptops,Laptops Premium,5,808.31,0.3,2829.07,-348.25
+ORD-101180,2024-01-19,East,Consumer,Office Supplies,Paper,Paper Premium,5,17.33,0.15,73.64,8.36
+ORD-100454,2024-01-19,West,Home Office,Furniture,Bookcases,Bookcases Premium,10,170.26,0.0,1702.62,124.85
+ORD-100830,2024-01-22,East,Home Office,Furniture,Chairs,Chairs Plus,3,136.3,0.1,368.02,27.08
+ORD-100138,2024-01-23,Central,Corporate,Technology,Phones,Phones Premium,2,514.21,0.2,822.73,-51.93
+ORD-100787,2024-01-24,West,Corporate,Technology,Accessories,Accessories Premium,1,40.39,0.1,36.35,7.48
+ORD-100385,2024-01-24,East,Consumer,Technology,Laptops,Laptops Basic,5,923.63,0.05,4387.24,703.41
+ORD-100663,2024-01-26,East,Consumer,Furniture,Chairs,Chairs Premium,2,162.97,0.0,325.95,34.0
+ORD-100147,2024-01-26,West,Corporate,Office Supplies,Binders,Binders Premium,1,21.94,0.15,18.65,2.81
+ORD-100844,2024-01-27,West,Consumer,Office Supplies,Labels,Labels Basic,1,8.15,0.1,7.34,1.93
+ORD-100970,2024-01-27,West,Corporate,Office Supplies,Pens,Pens Plus,2,10.43,0.3,14.61,2.13
+ORD-100117,2024-01-28,West,Home Office,Furniture,Desks,Desks Plus,1,304.27,0.0,304.27,44.4
+ORD-100328,2024-01-28,West,Home Office,Office Supplies,Labels,Labels Pro,1,8.03,0.05,7.63,2.35
+ORD-100870,2024-01-30,West,Home Office,Technology,Phones,Phones Premium,1,390.44,0.1,351.39,60.88
+ORD-100902,2024-01-31,Central,Corporate,Furniture,Storage,Storage Plus,1,85.47,0.0,85.47,12.75
+ORD-101099,2024-01-31,East,Home Office,Office Supplies,Paper,Paper Pro,2,18.29,0.0,36.58,8.01
+ORD-101019,2024-01-31,Central,Corporate,Office Supplies,Pens,Pens Premium,1,11.08,0.1,9.97,2.24
+ORD-100250,2024-01-31,South,Consumer,Technology,Printers,Printers Plus,5,235.07,0.3,822.75,-58.35
+ORD-100817,2024-02-01,Central,Corporate,Office Supplies,Labels,Labels Plus,1,9.25,0.05,8.78,3.52
+ORD-100562,2024-02-01,South,Corporate,Technology,Laptops,Laptops Basic,2,787.81,0.15,1339.28,44.81
+ORD-101110,2024-02-02,West,Corporate,Technology,Printers,Printers Premium,3,191.58,0.05,546.01,7.26
+ORD-100397,2024-02-02,East,Home Office,Office Supplies,Binders,Binders Premium,3,24.16,0.05,68.85,18.67
+ORD-100056,2024-02-02,Central,Corporate,Office Supplies,Binders,Binders Plus,10,24.1,0.1,216.94,47.28
+ORD-100811,2024-02-02,West,Home Office,Technology,Accessories,Accessories Plus,8,43.55,0.0,348.43,108.4
+ORD-100352,2024-02-02,South,Consumer,Technology,Printers,Printers Plus,3,227.47,0.0,682.4,81.12
+ORD-100574,2024-02-06,West,Consumer,Furniture,Desks,Desks Plus,4,331.27,0.1,1192.56,74.38
+ORD-100699,2024-02-06,Central,Home Office,Office Supplies,Labels,Labels Pro,8,8.7,0.2,55.71,14.91
+ORD-100584,2024-02-07,Central,Consumer,Technology,Accessories,Accessories Pro,2,40.54,0.0,81.09,28.04
+ORD-100848,2024-02-07,South,Home Office,Office Supplies,Binders,Binders Premium,1,25.97,0.15,22.07,3.36
+ORD-100887,2024-02-08,West,Home Office,Technology,Accessories,Accessories Plus,5,41.94,0.0,209.69,75.15
+ORD-100898,2024-02-09,South,Home Office,Technology,Laptops,Laptops Basic,3,992.41,0.0,2977.22,241.36
+ORD-100546,2024-02-09,South,Consumer,Furniture,Chairs,Chairs Plus,6,158.65,0.15,809.09,3.06
+ORD-100542,2024-02-10,East,Corporate,Office Supplies,Labels,Labels Plus,6,9.56,0.0,57.38,23.82
+ORD-101026,2024-02-10,East,Home Office,Furniture,Desks,Desks Plus,1,339.56,0.2,271.65,-18.29
+ORD-101021,2024-02-10,East,Home Office,Furniture,Bookcases,Bookcases Pro,4,156.82,0.15,533.2,-10.42
+ORD-100858,2024-02-11,South,Consumer,Furniture,Bookcases,Bookcases Basic,5,164.43,0.2,657.71,-23.45
+ORD-100150,2024-02-12,South,Consumer,Office Supplies,Binders,Binders Plus,2,24.8,0.0,49.59,14.03
+ORD-101136,2024-02-12,South,Home Office,Technology,Phones,Phones Plus,1,483.41,0.1,435.07,33.28
+ORD-100619,2024-02-14,Central,Home Office,Furniture,Storage,Storage Pro,2,105.81,0.2,169.3,7.99
+ORD-100036,2024-02-16,East,Corporate,Office Supplies,Paper,Paper Premium,4,17.09,0.0,68.34,20.97
+ORD-100279,2024-02-17,Central,Corporate,Furniture,Desks,Desks Plus,1,336.78,0.15,286.26,-1.3
+ORD-101035,2024-02-18,East,Corporate,Office Supplies,Pens,Pens Premium,4,10.23,0.0,40.91,12.8
+ORD-100518,2024-02-18,East,Home Office,Technology,Accessories,Accessories Premium,2,44.12,0.1,79.41,21.23
+ORD-100045,2024-02-19,East,Corporate,Furniture,Storage,Storage Basic,2,81.6,0.0,163.2,17.56
+ORD-100387,2024-02-19,South,Home Office,Technology,Laptops,Laptops Premium,4,888.76,0.3,2488.53,-6.87
+ORD-100899,2024-02-21,East,Home Office,Furniture,Bookcases,Bookcases Pro,4,181.51,0.15,617.14,-32.51
+ORD-101022,2024-02-22,South,Consumer,Office Supplies,Pens,Pens Pro,6,11.68,0.1,63.09,19.39
+ORD-100659,2024-02-22,East,Home Office,Office Supplies,Paper,Paper Basic,5,19.89,0.0,99.46,30.57
+ORD-100069,2024-02-25,South,Consumer,Office Supplies,Binders,Binders Plus,2,25.83,0.0,51.65,15.65
+ORD-101055,2024-02-26,South,Corporate,Furniture,Bookcases,Bookcases Plus,8,203.03,0.0,1624.2,223.67
+ORD-101027,2024-02-26,East,Corporate,Office Supplies,Binders,Binders Plus,2,23.79,0.0,47.58,15.24
+ORD-100217,2024-02-27,East,Home Office,Technology,Laptops,Laptops Pro,1,976.2,0.1,878.58,39.31
+ORD-100127,2024-02-27,West,Consumer,Office Supplies,Binders,Binders Premium,2,25.79,0.05,49.0,12.4
+ORD-101096,2024-02-28,Central,Consumer,Office Supplies,Binders,Binders Plus,5,22.61,0.1,101.75,16.17
+ORD-100439,2024-02-29,South,Consumer,Office Supplies,Paper,Paper Plus,3,15.87,0.0,47.61,15.04
+ORD-100280,2024-03-01,East,Consumer,Technology,Laptops,Laptops Pro,1,875.44,0.1,787.9,33.42
+ORD-101122,2024-03-02,South,Home Office,Furniture,Bookcases,Bookcases Premium,3,175.23,0.1,473.12,26.28
+ORD-100678,2024-03-02,South,Home Office,Office Supplies,Labels,Labels Pro,4,8.71,0.15,29.61,8.31
+ORD-100246,2024-03-02,Central,Corporate,Technology,Phones,Phones Basic,2,404.36,0.0,808.72,146.89
+ORD-100431,2024-03-02,East,Corporate,Office Supplies,Labels,Labels Premium,3,9.42,0.1,25.45,8.13
+ORD-100007,2024-03-03,Central,Corporate,Technology,Phones,Phones Pro,5,457.49,0.0,2287.44,360.77
+ORD-100881,2024-03-03,West,Home Office,Furniture,Bookcases,Bookcases Pro,1,163.54,0.15,139.01,-3.62
+ORD-100753,2024-03-04,West,Corporate,Furniture,Desks,Desks Premium,4,345.78,0.2,1106.49,-19.38
+ORD-100728,2024-03-05,West,Corporate,Furniture,Chairs,Chairs Basic,10,176.9,0.15,1503.69,105.92
+ORD-100196,2024-03-05,West,Home Office,Office Supplies,Binders,Binders Basic,1,26.97,0.1,24.27,6.01
+ORD-100001,2024-03-06,Central,Consumer,Office Supplies,Paper,Paper Plus,3,20.18,0.15,51.45,4.28
+ORD-100172,2024-03-06,Central,Home Office,Office Supplies,Pens,Pens Premium,3,13.74,0.1,37.09,8.54
+ORD-100695,2024-03-06,West,Home Office,Technology,Laptops,Laptops Premium,6,970.73,0.05,5533.14,631.86
+ORD-100133,2024-03-07,Central,Consumer,Technology,Laptops,Laptops Plus,2,834.51,0.15,1418.67,69.24
+ORD-100826,2024-03-07,West,Consumer,Technology,Phones,Phones Basic,1,498.06,0.1,448.25,31.96
+ORD-100359,2024-03-07,West,Corporate,Office Supplies,Pens,Pens Basic,6,12.96,0.1,69.99,20.47
+ORD-100033,2024-03-08,West,Consumer,Furniture,Storage,Storage Plus,1,80.79,0.2,64.63,0.82
+ORD-100910,2024-03-08,Central,Consumer,Office Supplies,Pens,Pens Premium,3,13.28,0.1,35.86,9.82
+ORD-100951,2024-03-09,West,Consumer,Office Supplies,Pens,Pens Pro,1,12.58,0.05,11.95,3.66
+ORD-100581,2024-03-09,West,Consumer,Technology,Phones,Phones Plus,5,410.21,0.05,1948.5,234.63
+ORD-100010,2024-03-09,Central,Consumer,Technology,Laptops,Laptops Plus,5,778.22,0.2,3112.88,-35.76
+ORD-100243,2024-03-10,West,Consumer,Furniture,Bookcases,Bookcases Plus,3,195.99,0.05,558.56,30.65
+ORD-100700,2024-03-10,Central,Consumer,Office Supplies,Binders,Binders Premium,2,22.76,0.2,36.42,-1.34
+ORD-100674,2024-03-10,Central,Corporate,Technology,Accessories,Accessories Premium,8,44.22,0.1,318.38,89.72
+ORD-100977,2024-03-10,East,Home Office,Furniture,Desks,Desks Premium,2,285.14,0.15,484.73,0.91
+ORD-100376,2024-03-10,Central,Home Office,Furniture,Bookcases,Bookcases Pro,3,157.74,0.3,331.25,-8.8
+ORD-100791,2024-03-10,South,Home Office,Office Supplies,Binders,Binders Premium,2,20.92,0.05,39.74,11.3
+ORD-100218,2024-03-11,West,Consumer,Office Supplies,Paper,Paper Basic,5,19.73,0.1,88.79,16.26
+ORD-100087,2024-03-12,West,Consumer,Technology,Accessories,Accessories Pro,8,46.46,0.05,353.09,114.58
+ORD-100588,2024-03-13,East,Corporate,Technology,Accessories,Accessories Pro,3,40.4,0.15,103.03,19.6
+ORD-100891,2024-03-14,Central,Consumer,Technology,Laptops,Laptops Basic,3,813.68,0.05,2319.0,207.16
+ORD-100580,2024-03-15,West,Home Office,Furniture,Bookcases,Bookcases Basic,2,188.6,0.0,377.21,32.16
+ORD-100258,2024-03-16,Central,Consumer,Office Supplies,Binders,Binders Basic,2,23.16,0.15,39.37,5.18
+ORD-100516,2024-03-17,Central,Home Office,Office Supplies,Binders,Binders Basic,2,21.72,0.15,36.93,6.32
+ORD-101166,2024-03-17,West,Home Office,Technology,Laptops,Laptops Basic,2,958.51,0.15,1629.47,18.68
+ORD-100818,2024-03-18,West,Corporate,Office Supplies,Binders,Binders Basic,4,22.52,0.2,72.08,12.0
+ORD-100460,2024-03-18,West,Home Office,Furniture,Storage,Storage Basic,1,102.15,0.1,91.94,13.36
+ORD-100171,2024-03-18,South,Corporate,Office Supplies,Pens,Pens Pro,6,10.56,0.05,60.21,19.51
+ORD-100583,2024-03-19,South,Consumer,Office Supplies,Paper,Paper Pro,10,15.56,0.1,140.01,24.97
+ORD-100322,2024-03-19,Central,Corporate,Office Supplies,Labels,Labels Premium,4,8.35,0.3,23.37,2.15
+ORD-100480,2024-03-20,West,Home Office,Technology,Printers,Printers Plus,2,193.99,0.1,349.19,9.07
+ORD-100310,2024-03-20,Central,Consumer,Furniture,Storage,Storage Plus,4,103.85,0.15,353.09,27.01
+ORD-100808,2024-03-21,South,Corporate,Office Supplies,Pens,Pens Premium,6,11.25,0.2,54.02,9.4
+ORD-100873,2024-03-24,East,Consumer,Technology,Accessories,Accessories Plus,3,39.97,0.2,95.93,13.46
+ORD-100501,2024-03-24,South,Home Office,Furniture,Storage,Storage Plus,5,103.06,0.05,489.53,39.41
+ORD-100120,2024-03-24,South,Consumer,Technology,Printers,Printers Premium,4,251.73,0.3,704.86,-104.75
+ORD-100538,2024-03-25,South,Corporate,Furniture,Bookcases,Bookcases Premium,3,203.29,0.05,579.37,40.89
+ORD-100365,2024-03-25,East,Home Office,Office Supplies,Labels,Labels Plus,2,8.8,0.2,14.08,3.23
+ORD-101020,2024-03-25,Central,Home Office,Office Supplies,Paper,Paper Pro,1,17.02,0.05,16.17,4.28
+ORD-100726,2024-03-26,East,Home Office,Furniture,Desks,Desks Basic,1,303.8,0.0,303.8,42.98
+ORD-100198,2024-03-27,Central,Corporate,Office Supplies,Paper,Paper Premium,6,17.18,0.3,72.15,1.82
+ORD-100313,2024-03-27,Central,Consumer,Office Supplies,Labels,Labels Premium,1,10.15,0.2,8.12,2.01
+ORD-100778,2024-03-27,Central,Consumer,Technology,Phones,Phones Basic,6,505.34,0.0,3032.05,527.77
+ORD-100497,2024-03-27,West,Consumer,Furniture,Bookcases,Bookcases Plus,1,201.22,0.05,191.16,11.81
+ORD-100724,2024-03-28,West,Home Office,Office Supplies,Paper,Paper Basic,3,15.56,0.05,44.33,10.03
+ORD-100946,2024-03-28,East,Home Office,Furniture,Storage,Storage Basic,1,93.97,0.05,89.27,8.81
+ORD-101050,2024-03-28,West,Consumer,Furniture,Desks,Desks Basic,2,304.99,0.15,518.49,27.02
+ORD-100863,2024-03-28,South,Consumer,Office Supplies,Pens,Pens Premium,5,11.8,0.1,53.11,10.28
+ORD-101157,2024-03-28,West,Corporate,Furniture,Storage,Storage Premium,3,108.44,0.05,309.05,23.17
+ORD-100418,2024-03-30,Central,Consumer,Technology,Laptops,Laptops Plus,2,925.7,0.0,1851.4,233.38
+ORD-100784,2024-03-30,East,Corporate,Office Supplies,Binders,Binders Premium,8,20.9,0.15,142.1,18.11
+ORD-100783,2024-03-30,East,Home Office,Technology,Printers,Printers Pro,1,206.49,0.2,165.19,-2.67
+ORD-100386,2024-03-30,West,Home Office,Furniture,Storage,Storage Plus,3,103.37,0.2,248.09,10.27
+ORD-100436,2024-03-31,West,Corporate,Furniture,Desks,Desks Premium,4,314.84,0.05,1196.39,13.22
+ORD-100874,2024-04-01,Central,Consumer,Office Supplies,Paper,Paper Basic,8,20.04,0.15,136.25,23.85
+ORD-100157,2024-04-02,Central,Consumer,Furniture,Storage,Storage Premium,2,83.69,0.0,167.39,35.94
+ORD-100759,2024-04-03,South,Consumer,Office Supplies,Pens,Pens Basic,5,11.05,0.15,46.96,9.95
+ORD-101005,2024-04-03,West,Corporate,Technology,Accessories,Accessories Plus,1,47.84,0.2,38.27,4.74
+ORD-100018,2024-04-03,East,Home Office,Technology,Laptops,Laptops Pro,8,801.28,0.1,5769.21,827.17
+ORD-100221,2024-04-03,South,Corporate,Office Supplies,Labels,Labels Basic,1,8.47,0.1,7.62,1.64
+ORD-100945,2024-04-04,West,Home Office,Office Supplies,Paper,Paper Plus,1,20.67,0.0,20.67,6.29
+ORD-100074,2024-04-04,Central,Home Office,Office Supplies,Pens,Pens Premium,8,13.74,0.3,76.92,-3.9
+ORD-100705,2024-04-04,West,Home Office,Furniture,Desks,Desks Premium,4,329.85,0.2,1055.51,-28.01
+ORD-100434,2024-04-05,South,Consumer,Office Supplies,Binders,Binders Pro,6,21.05,0.15,107.36,26.05
+ORD-100670,2024-04-06,South,Corporate,Office Supplies,Pens,Pens Premium,1,12.9,0.05,12.26,3.49
+ORD-100443,2024-04-06,East,Corporate,Office Supplies,Pens,Pens Pro,1,11.99,0.2,9.6,1.7
+ORD-100414,2024-04-06,South,Corporate,Office Supplies,Paper,Paper Basic,6,16.02,0.1,86.52,20.76
+ORD-100604,2024-04-08,Central,Corporate,Technology,Laptops,Laptops Basic,3,780.58,0.0,2341.73,474.3
+ORD-100948,2024-04-08,Central,Consumer,Office Supplies,Pens,Pens Basic,6,10.59,0.2,50.82,-6.75
+ORD-100823,2024-04-09,South,Corporate,Technology,Accessories,Accessories Premium,5,43.45,0.2,173.8,-18.74
+ORD-100682,2024-04-10,Central,Corporate,Office Supplies,Binders,Binders Premium,10,27.02,0.3,189.11,14.89
+ORD-100721,2024-04-11,East,Home Office,Office Supplies,Binders,Binders Basic,3,21.08,0.0,63.24,24.32
+ORD-100462,2024-04-12,West,Consumer,Office Supplies,Paper,Paper Plus,1,15.44,0.3,10.81,-0.64
+ORD-100118,2024-04-12,West,Home Office,Technology,Accessories,Accessories Basic,6,48.7,0.0,292.22,82.11
+ORD-100769,2024-04-12,South,Home Office,Furniture,Storage,Storage Plus,10,107.22,0.2,857.8,-111.08
+ORD-100306,2024-04-12,East,Home Office,Furniture,Bookcases,Bookcases Premium,1,188.64,0.0,188.64,14.8
+ORD-100241,2024-04-12,West,Home Office,Office Supplies,Paper,Paper Plus,2,16.63,0.3,23.28,0.41
+ORD-100100,2024-04-12,South,Corporate,Office Supplies,Paper,Paper Pro,5,18.33,0.1,82.5,19.13
+ORD-100620,2024-04-12,West,Corporate,Furniture,Desks,Desks Plus,3,318.94,0.0,956.82,137.11
+ORD-100329,2024-04-13,Central,Corporate,Office Supplies,Paper,Paper Plus,2,16.81,0.1,30.26,6.31
+ORD-101090,2024-04-13,South,Home Office,Furniture,Chairs,Chairs Plus,3,178.51,0.0,535.54,21.19
+ORD-101187,2024-04-14,South,Corporate,Technology,Laptops,Laptops Basic,3,1009.02,0.1,2724.36,289.01
+ORD-100834,2024-04-14,East,Home Office,Furniture,Chairs,Chairs Pro,10,183.79,0.15,1562.23,16.67
+ORD-101063,2024-04-15,East,Home Office,Technology,Laptops,Laptops Pro,3,839.74,0.2,2015.37,-203.73
+ORD-100528,2024-04-15,South,Home Office,Furniture,Chairs,Chairs Plus,3,157.98,0.15,402.85,18.98
+ORD-100256,2024-04-15,West,Corporate,Office Supplies,Pens,Pens Basic,8,11.47,0.3,64.22,7.15
+ORD-100408,2024-04-15,East,Consumer,Technology,Laptops,Laptops Pro,6,913.03,0.0,5478.2,947.33
+ORD-100522,2024-04-16,South,Consumer,Office Supplies,Paper,Paper Plus,3,18.99,0.2,45.58,5.54
+ORD-100924,2024-04-16,West,Consumer,Technology,Laptops,Laptops Pro,2,972.83,0.15,1653.82,0.75
+ORD-100938,2024-04-18,East,Consumer,Technology,Phones,Phones Basic,2,456.66,0.0,913.32,140.46
+ORD-100752,2024-04-18,East,Home Office,Office Supplies,Paper,Paper Premium,3,17.61,0.05,50.19,10.88
+ORD-100975,2024-04-18,East,Home Office,Office Supplies,Paper,Paper Basic,2,16.97,0.15,28.84,7.38
+ORD-100457,2024-04-18,South,Home Office,Technology,Printers,Printers Plus,3,227.77,0.0,683.3,103.98
+ORD-100357,2024-04-20,Central,Home Office,Office Supplies,Labels,Labels Basic,5,10.16,0.3,35.55,4.68
+ORD-101104,2024-04-20,East,Home Office,Technology,Printers,Printers Premium,2,192.71,0.05,366.15,31.12
+ORD-100273,2024-04-20,West,Corporate,Office Supplies,Pens,Pens Basic,3,11.88,0.05,33.87,10.02
+ORD-100182,2024-04-21,West,Consumer,Office Supplies,Paper,Paper Pro,10,15.52,0.3,108.63,3.19
+ORD-100058,2024-04-22,East,Corporate,Office Supplies,Paper,Paper Basic,6,18.99,0.05,108.22,27.28
+ORD-101046,2024-04-22,East,Corporate,Furniture,Chairs,Chairs Premium,10,159.42,0.0,1594.23,227.66
+ORD-100390,2024-04-22,South,Consumer,Office Supplies,Binders,Binders Basic,6,20.66,0.2,99.18,-15.77
+ORD-100536,2024-04-22,East,Home Office,Office Supplies,Pens,Pens Plus,1,13.73,0.0,13.73,5.59
+ORD-100961,2024-04-22,South,Corporate,Furniture,Bookcases,Bookcases Plus,4,161.03,0.1,579.69,25.8
+ORD-100884,2024-04-23,South,Consumer,Office Supplies,Paper,Paper Pro,3,19.41,0.0,58.22,17.14
+ORD-100533,2024-04-23,West,Home Office,Office Supplies,Binders,Binders Pro,2,20.41,0.1,36.73,7.58
+ORD-100847,2024-04-24,West,Home Office,Office Supplies,Labels,Labels Pro,1,8.34,0.1,7.51,1.86
+ORD-100750,2024-04-25,South,Corporate,Technology,Laptops,Laptops Plus,4,1017.63,0.15,3459.96,277.59
+ORD-100937,2024-04-25,South,Corporate,Technology,Printers,Printers Premium,2,217.82,0.15,370.3,10.63
+ORD-100287,2024-04-27,South,Home Office,Furniture,Bookcases,Bookcases Premium,1,194.54,0.1,175.09,-6.97
+ORD-100083,2024-04-27,East,Home Office,Office Supplies,Labels,Labels Pro,8,9.75,0.2,62.39,12.74
+ORD-100178,2024-04-27,West,Home Office,Office Supplies,Labels,Labels Premium,1,8.58,0.0,8.58,2.77
+ORD-101076,2024-04-29,West,Corporate,Office Supplies,Pens,Pens Pro,3,10.27,0.0,30.81,10.24
+ORD-100041,2024-04-30,East,Consumer,Office Supplies,Paper,Paper Plus,1,18.64,0.2,14.91,2.21
+ORD-100623,2024-04-30,West,Consumer,Office Supplies,Pens,Pens Premium,3,11.02,0.05,31.41,8.6
+ORD-100350,2024-04-30,Central,Consumer,Office Supplies,Paper,Paper Premium,8,19.14,0.1,137.78,22.97
+ORD-100532,2024-05-01,East,Home Office,Office Supplies,Labels,Labels Plus,2,8.24,0.0,16.47,5.72
+ORD-100467,2024-05-01,Central,Corporate,Office Supplies,Labels,Labels Plus,2,8.88,0.15,15.1,3.71
+ORD-101078,2024-05-01,East,Consumer,Furniture,Chairs,Chairs Pro,2,179.73,0.3,251.62,-17.16
+ORD-100187,2024-05-01,East,Corporate,Technology,Printers,Printers Plus,10,244.24,0.0,2442.42,375.12
+ORD-100703,2024-05-02,Central,Corporate,Furniture,Bookcases,Bookcases Pro,8,160.73,0.0,1285.86,57.23
+ORD-100168,2024-05-02,South,Home Office,Office Supplies,Binders,Binders Pro,2,23.09,0.2,36.94,6.61
+ORD-100685,2024-05-03,West,Corporate,Furniture,Bookcases,Bookcases Basic,3,161.29,0.0,483.87,41.25
+ORD-100262,2024-05-04,South,Home Office,Technology,Printers,Printers Premium,1,244.1,0.05,231.89,21.14
+ORD-101193,2024-05-04,East,Home Office,Furniture,Chairs,Chairs Plus,8,138.58,0.2,886.9,-35.03
+ORD-100704,2024-05-05,South,Consumer,Furniture,Chairs,Chairs Basic,1,167.49,0.0,167.49,15.69
+ORD-101032,2024-05-06,Central,Home Office,Technology,Phones,Phones Plus,2,448.21,0.1,806.77,120.15
+ORD-100908,2024-05-06,South,Home Office,Technology,Accessories,Accessories Basic,2,45.34,0.1,81.61,21.74
+ORD-100411,2024-05-07,East,Home Office,Office Supplies,Labels,Labels Premium,4,8.36,0.15,28.43,7.44
+ORD-100544,2024-05-07,Central,Home Office,Office Supplies,Labels,Labels Basic,3,9.24,0.15,23.56,8.35
+ORD-100259,2024-05-08,East,Corporate,Furniture,Chairs,Chairs Pro,6,172.97,0.05,985.92,45.33
+ORD-100761,2024-05-08,Central,Home Office,Office Supplies,Pens,Pens Basic,4,13.1,0.0,52.38,19.51
+ORD-100230,2024-05-09,Central,Corporate,Furniture,Bookcases,Bookcases Plus,1,156.13,0.0,156.13,12.43
+ORD-100661,2024-05-09,South,Home Office,Office Supplies,Labels,Labels Premium,3,10.02,0.0,30.07,11.27
+ORD-101174,2024-05-09,East,Home Office,Technology,Printers,Printers Basic,3,226.97,0.2,544.73,-29.76
+ORD-100392,2024-05-11,Central,Home Office,Office Supplies,Paper,Paper Basic,4,15.81,0.0,63.22,17.62
+ORD-100251,2024-05-11,Central,Consumer,Furniture,Desks,Desks Premium,3,350.77,0.15,894.46,-59.92
+ORD-101106,2024-05-12,East,Consumer,Office Supplies,Labels,Labels Premium,4,8.83,0.3,24.73,1.91
+ORD-100564,2024-05-12,West,Corporate,Technology,Phones,Phones Pro,2,485.38,0.2,776.61,66.79
+ORD-100349,2024-05-12,Central,Corporate,Furniture,Bookcases,Bookcases Plus,2,160.06,0.15,272.1,2.15
+ORD-100469,2024-05-12,Central,Home Office,Furniture,Chairs,Chairs Premium,4,178.56,0.05,678.52,59.25
+ORD-100023,2024-05-13,West,Home Office,Furniture,Chairs,Chairs Pro,5,167.37,0.1,753.14,30.14
+ORD-100635,2024-05-13,South,Corporate,Technology,Laptops,Laptops Pro,1,792.48,0.15,673.61,11.89
+ORD-100912,2024-05-14,South,Consumer,Furniture,Storage,Storage Premium,1,92.48,0.05,87.86,16.4
+ORD-100253,2024-05-17,South,Home Office,Office Supplies,Pens,Pens Premium,3,13.03,0.05,37.14,10.58
+ORD-100072,2024-05-18,Central,Corporate,Technology,Printers,Printers Plus,8,219.7,0.15,1493.98,-91.21
+ORD-101178,2024-05-20,South,Home Office,Technology,Accessories,Accessories Basic,1,47.28,0.0,47.28,15.25
+ORD-101113,2024-05-20,South,Home Office,Office Supplies,Labels,Labels Premium,8,8.78,0.1,63.18,22.53
+ORD-100523,2024-05-20,South,Home Office,Office Supplies,Labels,Labels Premium,2,7.77,0.05,14.77,4.52
+ORD-100888,2024-05-21,East,Home Office,Furniture,Bookcases,Bookcases Pro,4,173.28,0.2,554.5,-47.52
+ORD-100052,2024-05-22,Central,Consumer,Furniture,Bookcases,Bookcases Pro,4,188.84,0.05,717.58,-0.02
+ORD-101115,2024-05-22,South,Corporate,Technology,Laptops,Laptops Pro,8,1021.99,0.2,6540.77,-94.56
+ORD-100543,2024-05-22,Central,Corporate,Furniture,Bookcases,Bookcases Plus,1,189.4,0.0,189.4,13.04
+ORD-100993,2024-05-23,Central,Corporate,Technology,Phones,Phones Premium,5,394.21,0.0,1971.05,416.87
+ORD-100398,2024-05-23,West,Corporate,Office Supplies,Pens,Pens Basic,4,13.78,0.2,44.1,7.17
+ORD-100838,2024-05-24,East,Home Office,Furniture,Storage,Storage Premium,3,101.37,0.0,304.12,57.56
+ORD-100102,2024-05-26,South,Corporate,Furniture,Chairs,Chairs Basic,2,142.04,0.1,255.67,19.66
+ORD-100426,2024-05-26,East,Home Office,Furniture,Chairs,Chairs Pro,5,169.21,0.0,846.04,119.71
+ORD-101085,2024-05-26,East,Home Office,Office Supplies,Labels,Labels Basic,1,8.48,0.05,8.05,2.64
+ORD-100653,2024-05-27,Central,Home Office,Technology,Phones,Phones Premium,10,482.46,0.0,4824.6,1060.13
+ORD-100009,2024-05-27,East,Home Office,Office Supplies,Pens,Pens Basic,4,12.99,0.15,44.15,8.8
+ORD-100872,2024-05-27,South,Corporate,Office Supplies,Binders,Binders Basic,6,20.53,0.0,123.19,37.93
+ORD-100224,2024-05-27,South,Home Office,Furniture,Chairs,Chairs Premium,8,158.12,0.15,1075.25,74.67
+ORD-100664,2024-05-27,East,Consumer,Technology,Laptops,Laptops Plus,2,925.98,0.0,1851.97,310.28
+ORD-100339,2024-05-28,Central,Home Office,Furniture,Desks,Desks Pro,3,317.59,0.3,666.94,-63.6
+ORD-100735,2024-06-01,Central,Corporate,Furniture,Bookcases,Bookcases Basic,1,166.51,0.15,141.53,-1.7
+ORD-101072,2024-06-01,Central,Consumer,Office Supplies,Binders,Binders Basic,1,26.84,0.1,24.16,3.64
+ORD-100142,2024-06-05,West,Home Office,Technology,Laptops,Laptops Premium,6,869.05,0.1,4692.87,459.04
+ORD-100964,2024-06-08,Central,Home Office,Office Supplies,Paper,Paper Plus,2,17.15,0.2,27.45,0.87
+ORD-100903,2024-06-09,West,Home Office,Office Supplies,Binders,Binders Pro,10,26.92,0.0,269.2,79.07
+ORD-100363,2024-06-12,East,Consumer,Office Supplies,Pens,Pens Premium,2,10.35,0.1,18.64,5.53
+ORD-100976,2024-06-13,South,Consumer,Technology,Laptops,Laptops Plus,8,1026.08,0.1,7387.75,1107.06
+ORD-100078,2024-06-14,Central,Consumer,Furniture,Desks,Desks Premium,2,344.96,0.1,620.93,30.95
+ORD-100567,2024-06-15,West,Consumer,Technology,Laptops,Laptops Premium,2,837.07,0.0,1674.14,382.18
+ORD-100032,2024-06-15,Central,Corporate,Office Supplies,Binders,Binders Pro,2,23.4,0.05,44.46,11.65
+ORD-100412,2024-06-16,South,Home Office,Furniture,Chairs,Chairs Pro,2,158.19,0.1,284.74,31.04
+ORD-100326,2024-06-17,Central,Home Office,Office Supplies,Binders,Binders Premium,8,21.23,0.15,144.39,27.9
+ORD-100626,2024-06-19,East,Corporate,Office Supplies,Binders,Binders Pro,3,22.73,0.1,61.38,14.73
+ORD-101112,2024-06-19,West,Corporate,Furniture,Storage,Storage Basic,5,99.3,0.15,422.03,19.66
+ORD-100486,2024-06-19,Central,Home Office,Furniture,Storage,Storage Premium,6,97.36,0.0,584.14,96.13
+ORD-100148,2024-06-20,Central,Consumer,Office Supplies,Labels,Labels Plus,1,8.13,0.1,7.31,2.06
+ORD-100637,2024-06-21,East,Home Office,Technology,Accessories,Accessories Basic,5,49.68,0.1,223.57,56.23
+ORD-100327,2024-06-21,West,Corporate,Technology,Laptops,Laptops Plus,3,806.23,0.0,2418.68,324.82
+ORD-100719,2024-06-21,Central,Consumer,Furniture,Storage,Storage Plus,5,89.93,0.2,359.71,29.87
+ORD-100510,2024-06-22,South,Corporate,Office Supplies,Binders,Binders Basic,4,21.96,0.05,83.45,22.43
+ORD-100566,2024-06-22,West,Home Office,Office Supplies,Paper,Paper Basic,2,17.86,0.15,30.36,4.0
+ORD-100189,2024-06-23,Central,Home Office,Office Supplies,Labels,Labels Plus,3,10.08,0.1,27.21,9.16
+ORD-100854,2024-06-23,West,Corporate,Office Supplies,Paper,Paper Plus,1,17.81,0.0,17.81,4.16
+ORD-101047,2024-06-24,East,Home Office,Technology,Phones,Phones Plus,2,406.05,0.15,690.29,30.57
+ORD-100097,2024-06-24,South,Consumer,Office Supplies,Pens,Pens Pro,1,13.25,0.15,11.26,2.81
+ORD-100593,2024-06-24,East,Home Office,Furniture,Chairs,Chairs Pro,5,138.73,0.2,554.91,-11.18
+ORD-100384,2024-06-25,East,Consumer,Office Supplies,Pens,Pens Plus,4,11.44,0.05,43.48,12.33
+ORD-100832,2024-06-25,South,Corporate,Office Supplies,Binders,Binders Basic,2,23.25,0.2,37.21,5.46
+ORD-101107,2024-06-27,South,Corporate,Technology,Accessories,Accessories Plus,5,40.42,0.0,202.11,55.23
+ORD-100315,2024-06-27,Central,Corporate,Technology,Laptops,Laptops Basic,10,1027.09,0.2,8216.73,-1293.88
+ORD-101124,2024-06-27,Central,Consumer,Office Supplies,Labels,Labels Basic,1,8.05,0.05,7.64,2.35
+ORD-101013,2024-06-28,Central,Consumer,Technology,Phones,Phones Pro,1,480.29,0.05,456.27,62.67
+ORD-100119,2024-06-28,Central,Consumer,Furniture,Storage,Storage Pro,2,86.24,0.3,120.73,-5.68
+ORD-100831,2024-06-28,South,Consumer,Office Supplies,Binders,Binders Plus,1,21.89,0.1,19.7,4.56
+ORD-100857,2024-06-28,Central,Home Office,Office Supplies,Labels,Labels Basic,5,10.35,0.15,43.97,9.52
+ORD-100989,2024-06-29,West,Home Office,Technology,Accessories,Accessories Premium,2,39.24,0.2,62.79,-3.35
+ORD-100925,2024-06-30,South,Corporate,Office Supplies,Pens,Pens Pro,1,13.76,0.15,11.7,2.41
+ORD-100508,2024-06-30,East,Home Office,Office Supplies,Binders,Binders Plus,5,25.07,0.05,119.08,31.54
+ORD-100617,2024-07-01,East,Home Office,Furniture,Storage,Storage Plus,2,89.93,0.05,170.87,24.68
+ORD-100568,2024-07-01,South,Home Office,Furniture,Storage,Storage Premium,4,103.26,0.05,392.4,41.88
+ORD-100483,2024-07-02,South,Corporate,Technology,Accessories,Accessories Premium,3,44.29,0.1,119.58,27.66
+ORD-100696,2024-07-04,West,Home Office,Office Supplies,Binders,Binders Premium,2,22.72,0.1,40.9,9.55
+ORD-100919,2024-07-05,East,Consumer,Office Supplies,Paper,Paper Premium,4,18.02,0.1,64.86,9.54
+ORD-100346,2024-07-06,South,Consumer,Office Supplies,Pens,Pens Premium,2,12.78,0.05,24.28,6.7
+ORD-100933,2024-07-07,South,Consumer,Technology,Printers,Printers Plus,10,199.0,0.1,1791.0,19.8
+ORD-101179,2024-07-08,South,Corporate,Furniture,Storage,Storage Premium,4,96.79,0.0,387.15,68.13
+ORD-100211,2024-07-09,East,Corporate,Technology,Printers,Printers Basic,5,200.11,0.0,1000.53,119.59
+ORD-100380,2024-07-10,Central,Consumer,Office Supplies,Pens,Pens Premium,2,10.54,0.15,17.92,3.45
+ORD-100209,2024-07-11,East,Corporate,Furniture,Storage,Storage Basic,4,91.32,0.3,255.7,-9.95
+ORD-100618,2024-07-13,South,Home Office,Office Supplies,Paper,Paper Pro,3,16.92,0.2,40.61,3.59
+ORD-100206,2024-07-13,Central,Home Office,Office Supplies,Labels,Labels Premium,10,10.07,0.1,90.64,23.95
+ORD-100292,2024-07-14,West,Corporate,Office Supplies,Labels,Labels Pro,2,8.33,0.05,15.82,5.2
+ORD-100509,2024-07-15,South,Consumer,Furniture,Storage,Storage Premium,2,84.08,0.0,168.17,22.2
+ORD-101123,2024-07-15,Central,Home Office,Technology,Accessories,Accessories Pro,2,38.8,0.15,65.96,12.16
+ORD-101011,2024-07-15,East,Consumer,Technology,Laptops,Laptops Pro,3,842.41,0.15,2148.14,97.09
+ORD-100744,2024-07-16,East,Home Office,Office Supplies,Labels,Labels Premium,6,8.26,0.3,34.69,4.48
+ORD-100890,2024-07-16,Central,Consumer,Technology,Laptops,Laptops Plus,5,768.77,0.1,3459.48,290.58
+ORD-100779,2024-07-17,West,Home Office,Furniture,Storage,Storage Plus,3,81.78,0.1,220.8,35.28
+ORD-100216,2024-07-18,Central,Consumer,Office Supplies,Binders,Binders Basic,2,24.36,0.0,48.72,12.79
+ORD-100505,2024-07-19,South,Home Office,Furniture,Chairs,Chairs Premium,4,140.83,0.2,450.64,-77.38
+ORD-100281,2024-07-20,West,Home Office,Office Supplies,Paper,Paper Pro,2,19.31,0.1,34.76,6.58
+ORD-100111,2024-07-21,East,Home Office,Office Supplies,Pens,Pens Basic,6,12.16,0.05,69.31,22.66
+ORD-100039,2024-07-21,South,Home Office,Furniture,Storage,Storage Basic,1,83.9,0.0,83.9,7.66
+ORD-100143,2024-07-21,South,Corporate,Office Supplies,Binders,Binders Premium,3,24.46,0.05,69.72,16.35
+ORD-101192,2024-07-22,East,Corporate,Office Supplies,Paper,Paper Basic,6,16.87,0.15,86.05,21.91
+ORD-100950,2024-07-22,East,Consumer,Technology,Phones,Phones Plus,2,428.45,0.2,685.51,36.02
+ORD-100413,2024-07-23,Central,Consumer,Office Supplies,Labels,Labels Plus,2,8.64,0.0,17.27,6.53
+ORD-100399,2024-07-24,South,Corporate,Technology,Laptops,Laptops Plus,1,842.62,0.05,800.49,115.11
+ORD-100152,2024-07-24,Central,Corporate,Technology,Accessories,Accessories Basic,1,48.43,0.2,38.75,8.34
+ORD-101028,2024-07-24,East,Corporate,Furniture,Desks,Desks Basic,4,335.64,0.0,1342.56,187.31
+ORD-100314,2024-07-24,Central,Consumer,Office Supplies,Pens,Pens Premium,1,13.63,0.3,9.54,1.11
+ORD-100573,2024-07-25,South,Home Office,Office Supplies,Paper,Paper Basic,2,15.83,0.2,25.32,3.12
+ORD-100814,2024-07-26,Central,Consumer,Technology,Laptops,Laptops Basic,2,961.9,0.0,1923.81,246.67
+ORD-100534,2024-07-27,Central,Home Office,Furniture,Desks,Desks Pro,1,303.59,0.1,273.23,23.09
+ORD-100299,2024-07-27,West,Consumer,Office Supplies,Labels,Labels Premium,1,9.95,0.0,9.95,3.13
+ORD-100450,2024-07-28,East,Home Office,Office Supplies,Labels,Labels Plus,6,9.32,0.15,47.55,12.12
+ORD-100096,2024-07-29,Central,Home Office,Furniture,Desks,Desks Premium,4,363.21,0.1,1307.54,1.86
+ORD-100481,2024-07-29,South,Consumer,Office Supplies,Binders,Binders Plus,6,23.24,0.05,132.45,40.23
+ORD-100855,2024-07-29,South,Home Office,Office Supplies,Paper,Paper Premium,2,20.09,0.3,28.13,1.85
+ORD-100660,2024-07-29,South,Home Office,Technology,Accessories,Accessories Plus,2,43.69,0.15,74.26,15.87
+ORD-100841,2024-07-30,East,Consumer,Technology,Accessories,Accessories Plus,5,46.54,0.0,232.72,86.43
+ORD-100495,2024-07-30,South,Corporate,Technology,Laptops,Laptops Basic,3,983.01,0.1,2654.13,131.93
+ORD-100342,2024-07-31,East,Home Office,Office Supplies,Binders,Binders Pro,3,23.63,0.2,56.71,9.63
+ORD-101114,2024-08-01,East,Corporate,Technology,Laptops,Laptops Premium,5,785.86,0.15,3339.91,197.91
+ORD-100154,2024-08-02,South,Home Office,Furniture,Chairs,Chairs Pro,8,174.7,0.1,1257.82,57.56
+ORD-100796,2024-08-03,South,Corporate,Furniture,Chairs,Chairs Pro,3,159.77,0.0,479.32,63.01
+ORD-100271,2024-08-03,East,Corporate,Office Supplies,Labels,Labels Pro,1,9.22,0.2,7.37,1.57
+ORD-100419,2024-08-04,East,Home Office,Office Supplies,Labels,Labels Plus,2,7.98,0.0,15.97,6.17
+ORD-100638,2024-08-05,Central,Home Office,Office Supplies,Binders,Binders Basic,6,22.01,0.1,118.83,30.75
+ORD-100353,2024-08-06,East,Consumer,Office Supplies,Pens,Pens Premium,8,10.34,0.0,82.74,24.06
+ORD-100971,2024-08-06,West,Consumer,Office Supplies,Paper,Paper Premium,3,18.04,0.3,37.88,1.07
+ORD-100263,2024-08-07,Central,Consumer,Office Supplies,Pens,Pens Premium,2,10.38,0.3,14.54,0.87
+ORD-100442,2024-08-07,South,Consumer,Furniture,Storage,Storage Premium,1,105.93,0.3,74.15,-2.6
+ORD-100802,2024-08-08,West,Consumer,Technology,Accessories,Accessories Basic,8,43.04,0.1,309.91,77.18
+ORD-100190,2024-08-08,Central,Home Office,Technology,Accessories,Accessories Premium,4,44.41,0.1,159.88,38.25
+ORD-100928,2024-08-08,South,Corporate,Furniture,Chairs,Chairs Pro,6,153.48,0.0,920.89,102.59
+ORD-100307,2024-08-08,East,Consumer,Office Supplies,Labels,Labels Basic,4,8.98,0.3,25.16,4.04
+ORD-100136,2024-08-10,East,Corporate,Technology,Phones,Phones Basic,1,406.17,0.0,406.17,87.76
+ORD-100952,2024-08-10,East,Consumer,Office Supplies,Labels,Labels Basic,1,7.86,0.0,7.86,2.95
+ORD-101155,2024-08-10,Central,Corporate,Furniture,Storage,Storage Plus,5,98.04,0.05,465.69,35.87
+ORD-101105,2024-08-11,Central,Consumer,Office Supplies,Pens,Pens Basic,6,10.72,0.0,64.34,22.44
+ORD-100226,2024-08-11,Central,Corporate,Technology,Accessories,Accessories Pro,3,49.54,0.1,133.77,42.18
+ORD-101186,2024-08-12,East,Consumer,Furniture,Storage,Storage Basic,4,98.28,0.2,314.51,-18.04
+ORD-100239,2024-08-13,Central,Corporate,Office Supplies,Pens,Pens Basic,1,11.93,0.1,10.73,2.31
+ORD-100526,2024-08-14,East,Corporate,Technology,Accessories,Accessories Premium,2,44.07,0.05,83.74,22.34
+ORD-100400,2024-08-14,East,Corporate,Technology,Printers,Printers Pro,5,247.67,0.1,1114.52,66.4
+ORD-100333,2024-08-14,West,Corporate,Office Supplies,Paper,Paper Premium,1,17.16,0.1,15.45,2.73
+ORD-101060,2024-08-15,East,Consumer,Technology,Accessories,Accessories Plus,3,45.0,0.2,108.0,-6.92
+ORD-100749,2024-08-16,East,Home Office,Furniture,Storage,Storage Basic,2,81.32,0.0,162.65,30.24
+ORD-100088,2024-08-16,East,Consumer,Technology,Laptops,Laptops Basic,2,815.55,0.1,1468.0,-25.79
+ORD-101014,2024-08-17,West,Corporate,Technology,Phones,Phones Pro,1,389.7,0.2,311.76,2.02
+ORD-101034,2024-08-17,East,Home Office,Office Supplies,Labels,Labels Premium,4,8.82,0.1,31.77,9.93
+ORD-100748,2024-08-17,West,Corporate,Office Supplies,Pens,Pens Plus,2,10.26,0.0,20.51,6.41
+ORD-100447,2024-08-17,South,Corporate,Technology,Printers,Printers Plus,6,201.96,0.0,1211.77,115.61
+ORD-100799,2024-08-18,West,Home Office,Office Supplies,Binders,Binders Basic,2,21.03,0.1,37.86,6.63
+ORD-100368,2024-08-18,South,Home Office,Furniture,Chairs,Chairs Pro,2,173.67,0.3,243.13,-17.91
+ORD-100309,2024-08-18,West,Corporate,Technology,Laptops,Laptops Pro,4,883.58,0.0,3534.31,598.49
+ORD-101177,2024-08-19,West,Home Office,Technology,Phones,Phones Premium,2,406.77,0.1,732.18,64.24
+ORD-100338,2024-08-19,Central,Consumer,Office Supplies,Binders,Binders Plus,1,26.47,0.1,23.82,5.88
+ORD-100988,2024-08-19,Central,Corporate,Furniture,Desks,Desks Plus,4,337.5,0.05,1282.5,192.09
+ORD-100968,2024-08-19,East,Consumer,Technology,Laptops,Laptops Plus,4,794.92,0.2,2543.73,-79.42
+ORD-100554,2024-08-20,Central,Consumer,Technology,Accessories,Accessories Premium,3,44.58,0.0,133.75,40.89
+ORD-100525,2024-08-20,Central,Consumer,Office Supplies,Binders,Binders Pro,3,20.86,0.0,62.59,18.98
+ORD-100167,2024-08-22,East,Consumer,Office Supplies,Paper,Paper Premium,3,15.33,0.1,41.39,8.85
+ORD-100321,2024-08-22,Central,Corporate,Technology,Accessories,Accessories Basic,1,43.36,0.2,34.68,4.49
+ORD-100595,2024-08-22,West,Home Office,Furniture,Chairs,Chairs Plus,6,171.28,0.15,873.55,47.59
+ORD-100403,2024-08-22,West,Home Office,Technology,Accessories,Accessories Pro,3,43.34,0.1,117.01,33.19
+ORD-100607,2024-08-24,West,Consumer,Office Supplies,Binders,Binders Basic,3,21.51,0.0,64.53,20.62
+ORD-100066,2024-08-26,Central,Corporate,Furniture,Chairs,Chairs Basic,2,180.9,0.1,325.62,15.58
+ORD-100632,2024-08-27,South,Home Office,Office Supplies,Pens,Pens Basic,8,11.12,0.05,84.52,27.39
+ORD-100646,2024-08-28,West,Corporate,Furniture,Chairs,Chairs Plus,4,152.62,0.05,579.95,79.93
+ORD-101095,2024-08-28,West,Home Office,Technology,Accessories,Accessories Pro,10,40.95,0.05,388.99,131.89
+ORD-100077,2024-08-29,South,Home Office,Furniture,Bookcases,Bookcases Basic,1,184.55,0.2,147.64,-11.84
+ORD-100254,2024-08-29,Central,Consumer,Office Supplies,Labels,Labels Premium,2,9.48,0.15,16.12,3.86
+ORD-100294,2024-08-30,Central,Consumer,Furniture,Chairs,Chairs Plus,6,145.79,0.3,612.3,-38.23
+ORD-101145,2024-08-30,East,Home Office,Technology,Printers,Printers Basic,5,230.77,0.05,1096.18,166.97
+ORD-101069,2024-08-31,West,Corporate,Office Supplies,Paper,Paper Pro,1,16.34,0.0,16.34,4.59
+ORD-100738,2024-08-31,West,Consumer,Technology,Phones,Phones Plus,2,507.76,0.0,1015.52,202.95
+ORD-100169,2024-09-01,South,Corporate,Furniture,Bookcases,Bookcases Premium,1,179.82,0.15,152.84,-0.53
+ORD-100487,2024-09-01,South,Corporate,Office Supplies,Pens,Pens Premium,5,12.62,0.0,63.09,21.36
+ORD-101030,2024-09-01,South,Corporate,Office Supplies,Pens,Pens Pro,4,11.65,0.15,39.61,10.65
+ORD-100371,2024-09-02,West,Home Office,Technology,Laptops,Laptops Basic,3,780.89,0.15,1991.27,28.89
+ORD-100627,2024-09-04,West,Consumer,Technology,Phones,Phones Plus,4,419.71,0.0,1678.84,362.18
+ORD-100199,2024-09-04,Central,Home Office,Technology,Laptops,Laptops Pro,3,867.14,0.3,1821.0,-132.21
+ORD-101176,2024-09-04,South,Consumer,Technology,Accessories,Accessories Premium,4,48.63,0.15,165.33,30.83
+ORD-101142,2024-09-04,South,Corporate,Office Supplies,Paper,Paper Premium,4,16.43,0.0,65.73,19.09
+ORD-101160,2024-09-05,Central,Home Office,Technology,Phones,Phones Premium,2,473.0,0.05,898.7,131.18
+ORD-100991,2024-09-07,South,Home Office,Office Supplies,Binders,Binders Basic,2,21.39,0.05,40.65,10.21
+ORD-100197,2024-09-07,West,Home Office,Furniture,Storage,Storage Pro,4,103.57,0.0,414.27,102.76
+ORD-100268,2024-09-10,Central,Home Office,Furniture,Desks,Desks Premium,6,305.56,0.2,1466.68,-257.92
+ORD-100139,2024-09-11,West,Corporate,Furniture,Desks,Desks Premium,4,342.53,0.05,1301.63,75.52
+ORD-100979,2024-09-13,East,Home Office,Office Supplies,Binders,Binders Premium,2,21.75,0.0,43.5,11.38
+ORD-100044,2024-09-16,West,Consumer,Technology,Phones,Phones Plus,5,411.71,0.1,1852.69,235.73
+ORD-100521,2024-09-18,South,Home Office,Technology,Accessories,Accessories Basic,5,41.25,0.15,175.3,41.44
+ORD-100765,2024-09-20,South,Corporate,Technology,Phones,Phones Plus,2,397.56,0.0,795.11,193.9
+ORD-100998,2024-09-20,South,Consumer,Technology,Accessories,Accessories Plus,3,45.73,0.1,123.48,25.99
+ORD-100194,2024-09-21,South,Corporate,Technology,Phones,Phones Plus,1,508.88,0.1,458.0,25.49
+ORD-100301,2024-09-22,Central,Consumer,Technology,Phones,Phones Premium,2,471.04,0.0,942.09,159.71
+ORD-101052,2024-09-23,South,Home Office,Office Supplies,Binders,Binders Premium,6,24.46,0.2,117.39,-14.34
+ORD-100053,2024-09-23,East,Home Office,Technology,Printers,Printers Pro,1,202.26,0.1,182.04,14.73
+ORD-100746,2024-09-23,South,Consumer,Technology,Printers,Printers Basic,2,188.54,0.05,358.22,27.31
+ORD-100201,2024-09-24,West,Consumer,Office Supplies,Labels,Labels Plus,3,9.6,0.0,28.8,11.12
+ORD-100630,2024-09-24,West,Consumer,Office Supplies,Pens,Pens Plus,3,11.95,0.1,32.27,10.16
+ORD-101138,2024-09-24,South,Home Office,Technology,Phones,Phones Pro,1,475.02,0.0,475.02,67.88
+ORD-100063,2024-09-25,East,Home Office,Office Supplies,Pens,Pens Premium,5,10.94,0.0,54.68,22.11
+ORD-100393,2024-09-25,Central,Corporate,Office Supplies,Pens,Pens Premium,5,11.25,0.0,56.26,21.55
+ORD-100628,2024-09-25,South,Consumer,Office Supplies,Paper,Paper Pro,1,18.69,0.15,15.89,3.05
+ORD-101151,2024-09-27,East,Home Office,Furniture,Chairs,Chairs Plus,1,144.45,0.3,101.12,-11.68
+ORD-100068,2024-09-27,East,Consumer,Furniture,Storage,Storage Plus,1,90.43,0.15,76.86,6.21
+ORD-100909,2024-09-28,Central,Corporate,Furniture,Bookcases,Bookcases Pro,10,167.65,0.0,1676.55,242.82
+ORD-100332,2024-09-28,South,Home Office,Technology,Accessories,Accessories Plus,5,45.41,0.05,215.7,55.0
+ORD-100022,2024-09-28,South,Home Office,Office Supplies,Labels,Labels Premium,2,10.1,0.05,19.2,5.84
+ORD-101044,2024-09-29,East,Corporate,Furniture,Chairs,Chairs Premium,4,149.26,0.05,567.19,57.63
+ORD-100576,2024-09-30,Central,Home Office,Technology,Laptops,Laptops Basic,2,865.96,0.2,1385.53,-9.68
+ORD-100374,2024-09-30,East,Home Office,Office Supplies,Paper,Paper Plus,1,18.47,0.05,17.55,4.67
+ORD-100498,2024-09-30,East,Home Office,Office Supplies,Pens,Pens Basic,2,11.4,0.1,20.52,5.1
+ORD-100913,2024-10-02,East,Consumer,Office Supplies,Labels,Labels Pro,5,9.24,0.05,43.89,14.53
+ORD-100770,2024-10-02,Central,Corporate,Technology,Accessories,Accessories Plus,3,50.73,0.1,136.98,20.97
+ORD-100379,2024-10-04,Central,Corporate,Office Supplies,Labels,Labels Pro,4,7.75,0.0,31.02,10.76
+ORD-100634,2024-10-04,Central,Consumer,Office Supplies,Labels,Labels Pro,8,9.12,0.3,51.1,8.86
+ORD-100188,2024-10-05,South,Corporate,Technology,Accessories,Accessories Basic,6,49.62,0.3,208.4,-31.13
+ORD-101159,2024-10-07,Central,Corporate,Office Supplies,Labels,Labels Pro,2,9.44,0.0,18.88,6.77
+ORD-101017,2024-10-07,West,Consumer,Office Supplies,Labels,Labels Plus,10,8.29,0.0,82.89,27.71
+ORD-100758,2024-10-07,South,Corporate,Office Supplies,Binders,Binders Premium,4,25.1,0.15,85.34,15.41
+ORD-100614,2024-10-08,Central,Corporate,Office Supplies,Pens,Pens Plus,5,10.9,0.15,46.33,10.32
+ORD-100094,2024-10-10,South,Home Office,Office Supplies,Pens,Pens Premium,1,11.61,0.15,9.87,2.46
+ORD-101066,2024-10-10,South,Home Office,Office Supplies,Paper,Paper Basic,8,17.54,0.0,140.33,41.14
+ORD-100809,2024-10-12,South,Consumer,Office Supplies,Paper,Paper Plus,5,19.1,0.3,66.85,2.23
+ORD-101094,2024-10-13,Central,Corporate,Office Supplies,Paper,Paper Basic,1,20.47,0.15,17.4,2.53
+ORD-101173,2024-10-13,South,Consumer,Technology,Laptops,Laptops Premium,2,934.32,0.15,1588.35,154.22
+ORD-100552,2024-10-14,South,Home Office,Office Supplies,Paper,Paper Plus,2,19.61,0.2,31.37,-3.73
+ORD-100440,2024-10-17,Central,Corporate,Furniture,Desks,Desks Premium,5,346.16,0.05,1644.26,96.96
+ORD-101168,2024-10-18,Central,Corporate,Office Supplies,Binders,Binders Premium,3,24.61,0.15,62.75,11.41
+ORD-100957,2024-10-19,South,Home Office,Furniture,Bookcases,Bookcases Plus,3,205.79,0.15,524.75,21.02
+ORD-100027,2024-10-21,West,Home Office,Technology,Laptops,Laptops Pro,1,1022.94,0.15,869.5,50.86
+ORD-100585,2024-10-22,East,Consumer,Technology,Phones,Phones Basic,1,485.21,0.3,339.65,-16.47
+ORD-100942,2024-10-22,Central,Corporate,Office Supplies,Labels,Labels Basic,3,8.38,0.05,23.89,7.86
+ORD-100687,2024-10-24,South,Home Office,Office Supplies,Pens,Pens Basic,1,13.06,0.15,11.1,3.09
+ORD-101131,2024-10-24,East,Consumer,Technology,Laptops,Laptops Basic,2,942.67,0.1,1696.8,125.75
+ORD-100164,2024-10-24,South,Consumer,Furniture,Storage,Storage Plus,6,97.78,0.3,410.66,-70.56
+ORD-100962,2024-10-25,South,Corporate,Technology,Laptops,Laptops Pro,3,930.36,0.0,2791.08,573.28
+ORD-100144,2024-10-25,Central,Home Office,Technology,Printers,Printers Basic,1,201.01,0.0,201.01,21.9
+ORD-100163,2024-10-26,South,Consumer,Office Supplies,Labels,Labels Plus,1,9.69,0.1,8.72,2.45
+ORD-100373,2024-10-26,South,Home Office,Furniture,Desks,Desks Premium,4,361.96,0.0,1447.83,199.58
+ORD-100065,2024-10-27,West,Corporate,Office Supplies,Binders,Binders Plus,2,24.78,0.05,47.09,13.76
+ORD-100907,2024-10-27,South,Consumer,Technology,Phones,Phones Plus,6,487.24,0.05,2777.25,328.49
+ORD-100496,2024-10-28,South,Home Office,Furniture,Storage,Storage Premium,2,101.86,0.0,203.73,31.62
+ORD-100960,2024-10-28,East,Home Office,Office Supplies,Labels,Labels Plus,4,9.18,0.2,29.38,7.38
+ORD-100248,2024-10-30,West,Consumer,Furniture,Chairs,Chairs Pro,6,138.43,0.0,830.55,147.61
+ORD-101191,2024-10-30,East,Home Office,Office Supplies,Labels,Labels Plus,6,7.94,0.1,42.85,11.34
+ORD-101043,2024-10-30,West,Home Office,Furniture,Storage,Storage Premium,2,107.02,0.0,214.05,35.18
+ORD-100624,2024-10-31,East,Consumer,Furniture,Desks,Desks Pro,5,285.46,0.3,999.1,-57.9
+ORD-100425,2024-10-31,South,Corporate,Technology,Phones,Phones Plus,1,395.59,0.15,336.25,18.52
+ORD-100572,2024-10-31,West,Consumer,Office Supplies,Binders,Binders Basic,10,25.03,0.1,225.24,45.87
+ORD-100275,2024-11-01,Central,Corporate,Furniture,Desks,Desks Premium,6,337.86,0.05,1925.81,125.92
+ORD-100972,2024-11-01,South,Home Office,Office Supplies,Paper,Paper Basic,4,16.46,0.1,59.25,13.03
+ORD-100165,2024-11-01,Central,Corporate,Technology,Laptops,Laptops Premium,2,921.32,0.3,1289.85,-170.34
+ORD-101079,2024-11-01,South,Consumer,Office Supplies,Labels,Labels Plus,2,8.44,0.0,16.88,6.71
+ORD-100929,2024-11-01,Central,Consumer,Furniture,Desks,Desks Basic,1,279.59,0.2,223.67,-29.45
+ORD-100732,2024-11-02,West,Home Office,Furniture,Chairs,Chairs Basic,8,163.53,0.2,1046.59,-184.46
+ORD-100464,2024-11-02,West,Consumer,Office Supplies,Pens,Pens Pro,3,12.96,0.1,35.0,9.45
+ORD-101185,2024-11-03,West,Home Office,Technology,Printers,Printers Pro,1,203.97,0.15,173.38,2.31
+ORD-100777,2024-11-05,Central,Home Office,Technology,Laptops,Laptops Pro,2,820.99,0.3,1149.38,-17.14
+ORD-101059,2024-11-06,West,Home Office,Furniture,Storage,Storage Basic,10,85.74,0.05,814.56,71.69
+ORD-100500,2024-11-07,East,Home Office,Technology,Accessories,Accessories Plus,3,49.65,0.0,148.95,54.09
+ORD-100954,2024-11-08,West,Home Office,Technology,Printers,Printers Pro,2,243.53,0.1,438.36,25.29
+ORD-100547,2024-11-09,East,Corporate,Office Supplies,Pens,Pens Basic,1,10.24,0.0,10.24,2.68
+ORD-101153,2024-11-10,East,Home Office,Office Supplies,Binders,Binders Pro,2,22.61,0.2,36.17,6.91
+ORD-100238,2024-11-11,West,Consumer,Office Supplies,Pens,Pens Pro,2,11.54,0.15,19.61,5.11
+ORD-100795,2024-11-11,West,Home Office,Furniture,Desks,Desks Pro,4,353.78,0.05,1344.36,238.34
+ORD-100994,2024-11-11,East,Home Office,Furniture,Chairs,Chairs Basic,3,137.12,0.15,349.65,8.25
+ORD-100473,2024-11-11,East,Home Office,Technology,Accessories,Accessories Basic,3,42.88,0.1,115.76,30.26
+ORD-100005,2024-11-12,East,Home Office,Office Supplies,Paper,Paper Premium,2,15.52,0.0,31.04,8.23
+ORD-100621,2024-11-12,West,Corporate,Technology,Accessories,Accessories Pro,5,42.42,0.0,212.09,72.06
+ORD-100155,2024-11-13,West,Consumer,Office Supplies,Paper,Paper Basic,10,17.97,0.1,161.69,20.22
+ORD-100633,2024-11-13,East,Consumer,Furniture,Bookcases,Bookcases Premium,1,185.38,0.0,185.38,11.56
+ORD-101100,2024-11-13,East,Home Office,Furniture,Bookcases,Bookcases Pro,5,153.66,0.05,729.89,44.08
+ORD-100435,2024-11-13,South,Corporate,Technology,Phones,Phones Basic,2,494.2,0.15,840.15,96.61
+ORD-100407,2024-11-13,West,Home Office,Furniture,Bookcases,Bookcases Basic,1,198.12,0.2,158.49,-6.09
+ORD-100354,2024-11-14,South,Corporate,Office Supplies,Labels,Labels Premium,2,7.74,0.0,15.48,5.26
+ORD-100091,2024-11-14,West,Corporate,Technology,Phones,Phones Plus,5,483.86,0.15,2056.42,168.18
+ORD-100140,2024-11-15,South,Corporate,Technology,Phones,Phones Basic,3,478.42,0.2,1148.21,-138.05
+ORD-100082,2024-11-15,East,Consumer,Furniture,Bookcases,Bookcases Premium,3,166.22,0.0,498.66,44.32
+ORD-101039,2024-11-15,South,Home Office,Office Supplies,Labels,Labels Pro,2,8.27,0.3,11.58,-2.05
+ORD-100756,2024-11-16,West,Home Office,Furniture,Chairs,Chairs Pro,2,149.93,0.1,269.88,10.68
+ORD-100004,2024-11-16,East,Corporate,Office Supplies,Labels,Labels Pro,10,8.43,0.3,59.0,11.73
+ORD-100298,2024-11-16,West,Consumer,Technology,Phones,Phones Premium,2,427.53,0.15,726.8,34.12
+ORD-100121,2024-11-17,East,Corporate,Office Supplies,Labels,Labels Plus,2,9.44,0.2,15.11,2.43
+ORD-100285,2024-11-18,East,Home Office,Office Supplies,Labels,Labels Plus,8,8.91,0.1,64.18,20.78
+ORD-100800,2024-11-19,South,Consumer,Technology,Laptops,Laptops Plus,2,850.02,0.0,1700.03,316.94
+ORD-100935,2024-11-19,Central,Corporate,Technology,Laptops,Laptops Pro,4,851.89,0.15,2896.44,247.63
+ORD-100030,2024-11-20,East,Home Office,Office Supplies,Binders,Binders Premium,3,20.77,0.05,59.19,13.4
+ORD-100047,2024-11-21,East,Consumer,Technology,Printers,Printers Pro,5,245.74,0.05,1167.27,151.48
+ORD-100689,2024-11-21,East,Corporate,Office Supplies,Paper,Paper Pro,3,16.52,0.2,39.64,3.33
+ORD-100267,2024-11-22,South,Home Office,Office Supplies,Labels,Labels Basic,3,9.38,0.1,25.32,8.12
+ORD-100869,2024-11-22,West,Consumer,Office Supplies,Labels,Labels Pro,6,9.32,0.1,50.33,12.24
+ORD-100186,2024-11-22,East,Consumer,Technology,Printers,Printers Plus,1,207.5,0.3,145.25,-17.18
+ORD-100219,2024-11-22,Central,Consumer,Furniture,Desks,Desks Plus,2,316.88,0.0,633.76,93.45
+ORD-100923,2024-11-22,South,Home Office,Technology,Accessories,Accessories Plus,1,38.27,0.15,32.53,8.34
+ORD-101184,2024-11-23,West,Corporate,Office Supplies,Binders,Binders Plus,2,24.2,0.0,48.41,14.46
+ORD-101092,2024-11-23,East,Consumer,Office Supplies,Paper,Paper Basic,3,20.03,0.3,42.06,0.39
+ORD-100214,2024-11-24,West,Corporate,Office Supplies,Paper,Paper Plus,6,19.12,0.15,97.53,13.57
+ORD-100883,2024-11-24,South,Home Office,Office Supplies,Pens,Pens Premium,3,13.49,0.2,32.39,-4.47
+ORD-101057,2024-11-24,South,Home Office,Technology,Printers,Printers Basic,2,223.58,0.1,402.45,24.15
+ORD-100020,2024-11-25,South,Consumer,Office Supplies,Binders,Binders Basic,4,23.43,0.05,89.02,18.1
+ORD-100031,2024-11-25,Central,Home Office,Office Supplies,Binders,Binders Premium,2,25.43,0.0,50.85,13.63
+ORD-100833,2024-11-27,East,Consumer,Technology,Printers,Printers Pro,1,222.41,0.1,200.17,18.93
+ORD-100506,2024-11-27,West,Home Office,Furniture,Bookcases,Bookcases Basic,3,198.42,0.15,505.97,-57.0
+ORD-100792,2024-11-28,East,Home Office,Technology,Laptops,Laptops Pro,3,1033.99,0.3,2171.38,-189.51
+ORD-100871,2024-11-29,Central,Home Office,Office Supplies,Labels,Labels Basic,6,7.92,0.3,33.28,-3.36
+ORD-100222,2024-11-29,West,Home Office,Furniture,Desks,Desks Pro,2,361.28,0.15,614.18,38.95
+ORD-100537,2024-11-29,East,Home Office,Technology,Accessories,Accessories Premium,4,39.44,0.3,110.44,-13.64
+ORD-100205,2024-11-30,East,Home Office,Furniture,Bookcases,Bookcases Basic,4,187.43,0.0,749.72,82.58
+ORD-100905,2024-12-01,South,Consumer,Office Supplies,Binders,Binders Plus,3,26.37,0.0,79.1,17.63
+ORD-100114,2024-12-01,South,Home Office,Office Supplies,Binders,Binders Pro,5,23.69,0.1,106.59,29.47
+ORD-100916,2024-12-01,Central,Corporate,Office Supplies,Labels,Labels Pro,1,9.74,0.1,8.76,2.91
+ORD-100798,2024-12-01,Central,Home Office,Technology,Laptops,Laptops Basic,8,917.59,0.0,7340.72,1345.58
+ORD-100647,2024-12-02,West,Home Office,Office Supplies,Binders,Binders Basic,4,22.78,0.05,86.56,19.61
+ORD-100335,2024-12-02,West,Corporate,Technology,Accessories,Accessories Premium,4,42.09,0.15,143.12,31.22
+ORD-100176,2024-12-03,South,Corporate,Technology,Printers,Printers Plus,1,211.86,0.15,180.08,-8.5
+ORD-100939,2024-12-03,Central,Corporate,Technology,Phones,Phones Plus,3,509.21,0.0,1527.64,266.44
+ORD-100231,2024-12-04,West,Consumer,Office Supplies,Labels,Labels Basic,2,9.49,0.2,15.18,-2.3
+ORD-100073,2024-12-04,South,Corporate,Technology,Laptops,Laptops Pro,2,971.5,0.05,1845.84,224.31
+ORD-100612,2024-12-04,South,Corporate,Technology,Printers,Printers Basic,1,208.82,0.05,198.38,18.95
+ORD-100485,2024-12-04,South,Consumer,Office Supplies,Binders,Binders Plus,5,22.86,0.15,97.15,15.89
+ORD-100710,2024-12-06,East,Consumer,Technology,Accessories,Accessories Plus,1,41.17,0.2,32.94,6.67
+ORD-100474,2024-12-07,South,Home Office,Technology,Laptops,Laptops Plus,2,899.07,0.0,1798.15,299.22
+ORD-100277,2024-12-07,East,Home Office,Office Supplies,Pens,Pens Basic,4,11.26,0.2,36.04,6.13
+ORD-100054,2024-12-07,West,Corporate,Furniture,Chairs,Chairs Basic,2,162.57,0.1,292.63,22.55
+ORD-101075,2024-12-07,West,Home Office,Furniture,Desks,Desks Plus,3,288.53,0.0,865.58,91.76
+ORD-100070,2024-12-09,South,Home Office,Office Supplies,Pens,Pens Plus,2,10.87,0.0,21.74,7.08
+ORD-101102,2024-12-09,East,Consumer,Furniture,Chairs,Chairs Premium,3,152.65,0.0,457.96,65.88
+ORD-100367,2024-12-09,Central,Corporate,Office Supplies,Labels,Labels Basic,2,8.77,0.1,15.78,5.09
+ORD-100109,2024-12-10,Central,Corporate,Furniture,Storage,Storage Pro,10,100.28,0.05,952.7,142.41
+ORD-100124,2024-12-10,East,Corporate,Technology,Printers,Printers Premium,1,251.46,0.15,213.74,10.89
+ORD-100974,2024-12-12,West,Home Office,Office Supplies,Pens,Pens Basic,1,11.75,0.0,11.75,3.33
+ORD-100944,2024-12-12,East,Consumer,Technology,Printers,Printers Pro,2,187.06,0.0,374.12,49.69
+ORD-100290,2024-12-12,Central,Corporate,Technology,Laptops,Laptops Plus,2,827.28,0.15,1406.38,90.28
+ORD-100076,2024-12-13,West,Consumer,Technology,Accessories,Accessories Premium,4,40.48,0.1,145.73,35.9
+ORD-100519,2024-12-13,South,Corporate,Furniture,Desks,Desks Plus,2,277.19,0.15,471.22,-3.21
+ORD-100709,2024-12-13,Central,Home Office,Office Supplies,Binders,Binders Basic,10,23.39,0.1,210.54,41.9
+ORD-100973,2024-12-14,Central,Home Office,Furniture,Storage,Storage Basic,4,80.88,0.05,307.33,31.39
+ORD-100785,2024-12-15,East,Consumer,Technology,Phones,Phones Basic,10,396.81,0.3,2777.67,-94.37
+ORD-100622,2024-12-15,East,Consumer,Office Supplies,Binders,Binders Plus,1,25.41,0.0,25.41,6.98
+ORD-101101,2024-12-16,West,Corporate,Office Supplies,Binders,Binders Pro,10,21.72,0.05,206.38,55.83
+ORD-100768,2024-12-16,West,Corporate,Office Supplies,Binders,Binders Pro,4,27.42,0.1,98.7,24.35
+ORD-100644,2024-12-17,South,Home Office,Furniture,Chairs,Chairs Plus,1,151.79,0.0,151.79,10.04
+ORD-101146,2024-12-18,West,Corporate,Office Supplies,Pens,Pens Premium,2,11.1,0.2,17.76,4.48
+ORD-100276,2024-12-18,Central,Home Office,Technology,Phones,Phones Premium,1,424.03,0.15,360.43,35.59
+ORD-100282,2024-12-21,South,Consumer,Office Supplies,Binders,Binders Plus,5,23.99,0.1,107.97,28.52
+ORD-101031,2024-12-22,East,Consumer,Furniture,Bookcases,Bookcases Basic,3,192.22,0.0,576.65,40.84
+ORD-100729,2024-12-22,East,Home Office,Office Supplies,Labels,Labels Plus,5,10.17,0.2,40.69,7.62
+ORD-100444,2024-12-23,East,Consumer,Furniture,Desks,Desks Pro,8,298.61,0.2,1911.11,-65.19
+ORD-100651,2024-12-23,East,Consumer,Office Supplies,Pens,Pens Basic,6,12.2,0.3,51.26,7.16
+ORD-100284,2024-12-24,South,Home Office,Furniture,Desks,Desks Pro,5,321.51,0.0,1607.53,71.9
+ORD-101116,2024-12-24,East,Home Office,Furniture,Desks,Desks Basic,6,285.95,0.05,1629.93,335.67
+ORD-100718,2024-12-25,South,Home Office,Office Supplies,Pens,Pens Plus,2,11.27,0.1,20.28,4.81
+ORD-100563,2024-12-26,South,Corporate,Office Supplies,Binders,Binders Basic,3,20.97,0.0,62.92,18.93
+ORD-100235,2024-12-26,East,Home Office,Furniture,Desks,Desks Premium,5,352.17,0.05,1672.82,80.82
+ORD-101120,2024-12-26,West,Consumer,Furniture,Chairs,Chairs Plus,5,145.16,0.0,725.78,114.24
+ORD-100203,2024-12-27,South,Corporate,Technology,Phones,Phones Pro,3,441.45,0.1,1191.92,1.85
+ORD-101018,2024-12-27,West,Consumer,Furniture,Storage,Storage Plus,2,101.12,0.05,192.12,28.17
+ORD-100252,2024-12-27,South,Consumer,Office Supplies,Paper,Paper Premium,1,18.02,0.0,18.02,4.97
+ORD-100185,2024-12-28,Central,Corporate,Office Supplies,Pens,Pens Premium,3,12.24,0.2,29.38,5.32
+ORD-100055,2024-12-29,Central,Consumer,Technology,Laptops,Laptops Pro,4,918.07,0.15,3121.45,133.82
+ORD-100183,2024-12-29,South,Consumer,Office Supplies,Paper,Paper Basic,8,20.35,0.0,162.83,38.23
+ORD-101162,2024-12-30,Central,Home Office,Office Supplies,Binders,Binders Basic,8,25.17,0.0,201.35,55.65
+ORD-100405,2024-12-30,South,Home Office,Technology,Accessories,Accessories Premium,2,39.18,0.1,70.53,18.38
+ORD-100453,2024-12-30,West,Consumer,Furniture,Storage,Storage Pro,3,90.43,0.1,244.17,23.18
+ORD-100021,2024-12-31,East,Home Office,Office Supplies,Binders,Binders Premium,5,22.45,0.1,101.02,22.44
+ORD-100406,2025-01-01,East,Home Office,Office Supplies,Binders,Binders Basic,1,22.47,0.15,19.1,4.36
+ORD-101053,2025-01-01,Central,Home Office,Technology,Laptops,Laptops Plus,6,809.47,0.1,4371.14,431.21
+ORD-100180,2025-01-01,Central,Home Office,Technology,Accessories,Accessories Premium,1,50.01,0.15,42.51,8.5
+ORD-101091,2025-01-02,Central,Corporate,Technology,Printers,Printers Plus,1,244.41,0.05,232.19,20.07
+ORD-100667,2025-01-02,Central,Corporate,Technology,Printers,Printers Premium,6,223.91,0.15,1141.94,8.23
+ORD-100876,2025-01-03,East,Home Office,Office Supplies,Labels,Labels Basic,1,9.52,0.2,7.61,1.39
+ORD-100556,2025-01-03,South,Corporate,Office Supplies,Binders,Binders Plus,4,26.7,0.15,90.78,9.92
+ORD-101008,2025-01-03,West,Home Office,Technology,Phones,Phones Basic,5,472.67,0.15,2008.85,104.14
+ORD-101152,2025-01-04,South,Consumer,Office Supplies,Labels,Labels Premium,3,8.81,0.0,26.43,8.75
+ORD-100629,2025-01-04,East,Corporate,Office Supplies,Binders,Binders Plus,1,22.94,0.1,20.65,3.69
+ORD-100115,2025-01-04,West,Consumer,Office Supplies,Binders,Binders Pro,4,22.26,0.05,84.57,23.52
+ORD-100159,2025-01-04,West,Consumer,Furniture,Bookcases,Bookcases Pro,4,203.37,0.3,569.44,-74.6
+ORD-100420,2025-01-05,Central,Corporate,Office Supplies,Paper,Paper Premium,4,19.37,0.15,65.85,11.49
+ORD-100445,2025-01-06,Central,Consumer,Office Supplies,Labels,Labels Plus,8,9.38,0.1,67.57,21.61
+ORD-100940,2025-01-06,East,Consumer,Office Supplies,Paper,Paper Plus,6,18.66,0.0,111.98,34.43
+ORD-101051,2025-01-06,West,Home Office,Office Supplies,Pens,Pens Premium,10,12.68,0.1,114.14,30.84
+ORD-100897,2025-01-07,South,Corporate,Furniture,Chairs,Chairs Basic,1,154.3,0.1,138.87,6.67
+ORD-101000,2025-01-09,South,Home Office,Technology,Printers,Printers Plus,4,209.46,0.1,754.06,7.83
+ORD-100017,2025-01-10,South,Home Office,Technology,Printers,Printers Premium,10,226.28,0.15,1923.41,25.49
+ORD-100608,2025-01-10,East,Consumer,Office Supplies,Binders,Binders Premium,5,27.0,0.3,94.5,8.31
+ORD-100803,2025-01-11,West,Home Office,Technology,Accessories,Accessories Plus,3,43.55,0.0,130.66,45.03
+ORD-100344,2025-01-11,East,Home Office,Office Supplies,Pens,Pens Premium,2,11.61,0.0,23.22,8.49
+ORD-100549,2025-01-12,East,Corporate,Technology,Accessories,Accessories Basic,2,51.18,0.15,87.0,18.05
+ORD-101165,2025-01-12,West,Home Office,Technology,Phones,Phones Basic,4,484.04,0.2,1548.92,116.72
+ORD-100717,2025-01-13,Central,Corporate,Technology,Phones,Phones Premium,1,433.8,0.0,433.8,82.78
+ORD-100366,2025-01-14,East,Corporate,Furniture,Bookcases,Bookcases Pro,2,180.14,0.0,360.29,38.47
+ORD-101015,2025-01-14,West,Consumer,Office Supplies,Pens,Pens Pro,3,12.34,0.2,29.62,5.16
+ORD-100701,2025-01-15,East,Home Office,Technology,Accessories,Accessories Pro,10,50.17,0.2,401.35,73.24
+ORD-100296,2025-01-15,West,Consumer,Furniture,Chairs,Chairs Pro,8,148.92,0.15,1012.64,-11.75
+ORD-101010,2025-01-15,Central,Corporate,Office Supplies,Paper,Paper Premium,6,17.14,0.1,92.57,14.67
+ORD-100449,2025-01-15,West,Consumer,Technology,Phones,Phones Basic,4,402.88,0.2,1289.23,53.47
+ORD-100893,2025-01-16,South,Corporate,Office Supplies,Paper,Paper Pro,1,15.46,0.0,15.46,4.89
+ORD-100679,2025-01-17,West,Corporate,Office Supplies,Binders,Binders Premium,2,20.4,0.1,36.73,8.12
+ORD-100578,2025-01-17,West,Corporate,Furniture,Bookcases,Bookcases Premium,10,192.07,0.2,1536.58,-160.07
+ORD-100712,2025-01-17,South,Corporate,Office Supplies,Labels,Labels Premium,1,8.6,0.15,7.31,1.77
+ORD-101074,2025-01-18,South,Consumer,Office Supplies,Labels,Labels Pro,6,8.85,0.3,37.15,6.63
+ORD-101195,2025-01-19,West,Consumer,Office Supplies,Paper,Paper Premium,6,18.63,0.0,111.76,30.97
+ORD-100997,2025-01-19,South,Home Office,Technology,Printers,Printers Basic,4,203.14,0.1,731.3,78.6
+ORD-100011,2025-01-19,Central,Corporate,Office Supplies,Labels,Labels Pro,6,9.04,0.0,54.24,18.35
+ORD-100995,2025-01-22,West,Corporate,Office Supplies,Labels,Labels Basic,3,8.38,0.2,20.12,4.4
+ORD-100488,2025-01-22,Central,Corporate,Office Supplies,Binders,Binders Plus,3,23.15,0.3,48.61,3.65
+ORD-100507,2025-01-23,West,Home Office,Technology,Accessories,Accessories Plus,1,50.23,0.15,42.7,9.92
+ORD-101147,2025-01-23,Central,Corporate,Technology,Phones,Phones Plus,1,405.61,0.0,405.61,74.09
+ORD-101164,2025-01-23,Central,Consumer,Furniture,Storage,Storage Pro,6,84.4,0.05,481.09,83.31
+ORD-100656,2025-01-24,West,Home Office,Furniture,Bookcases,Bookcases Premium,5,166.59,0.1,749.67,17.83
+ORD-100747,2025-01-24,West,Home Office,Technology,Accessories,Accessories Plus,3,47.01,0.15,119.88,26.85
+ORD-100351,2025-01-24,East,Consumer,Technology,Printers,Printers Basic,10,197.75,0.05,1878.61,179.95
+ORD-100648,2025-01-26,West,Corporate,Furniture,Storage,Storage Plus,4,93.32,0.0,373.28,70.69
+ORD-100606,2025-01-26,West,Corporate,Office Supplies,Binders,Binders Basic,3,25.06,0.15,63.92,12.4
+ORD-100931,2025-01-27,South,Corporate,Furniture,Storage,Storage Basic,3,99.1,0.2,237.83,5.25
+ORD-100561,2025-01-27,West,Home Office,Technology,Accessories,Accessories Pro,1,39.57,0.3,27.7,3.66
+ORD-100539,2025-01-29,South,Home Office,Technology,Phones,Phones Pro,10,470.08,0.05,4465.8,807.69
+ORD-101140,2025-01-29,West,Consumer,Furniture,Chairs,Chairs Premium,5,160.88,0.0,804.41,55.8
+ORD-100877,2025-01-29,West,Home Office,Office Supplies,Paper,Paper Pro,3,16.61,0.15,42.36,6.55
+ORD-100927,2025-01-30,Central,Corporate,Office Supplies,Labels,Labels Premium,1,9.2,0.1,8.28,2.52
+ORD-100289,2025-01-31,West,Home Office,Office Supplies,Pens,Pens Basic,1,11.37,0.15,9.67,2.1
+ORD-100305,2025-01-31,Central,Consumer,Furniture,Chairs,Chairs Basic,1,179.39,0.0,179.39,22.79
+ORD-100917,2025-01-31,South,Consumer,Office Supplies,Labels,Labels Plus,5,9.61,0.1,43.22,11.27
+ORD-100807,2025-02-02,Central,Home Office,Furniture,Chairs,Chairs Pro,4,168.11,0.3,470.72,-50.37
+ORD-100295,2025-02-02,East,Home Office,Technology,Printers,Printers Premium,2,252.05,0.1,453.69,6.5
+ORD-100029,2025-02-02,West,Home Office,Technology,Phones,Phones Premium,1,391.35,0.0,391.35,57.91
+ORD-100789,2025-02-02,South,Home Office,Office Supplies,Pens,Pens Pro,1,10.7,0.0,10.7,3.27
+ORD-100057,2025-02-03,West,Home Office,Furniture,Bookcases,Bookcases Pro,5,175.03,0.1,787.63,2.38
+ORD-100983,2025-02-03,Central,Corporate,Furniture,Bookcases,Bookcases Premium,3,180.42,0.15,460.06,0.06
+ORD-100331,2025-02-03,East,Consumer,Technology,Laptops,Laptops Premium,1,888.27,0.0,888.27,147.43
+ORD-100229,2025-02-03,South,Corporate,Furniture,Storage,Storage Basic,4,90.57,0.3,253.6,-21.08
+ORD-100879,2025-02-04,South,Corporate,Office Supplies,Binders,Binders Basic,3,23.51,0.0,70.53,22.0
+ORD-100992,2025-02-05,West,Home Office,Office Supplies,Pens,Pens Premium,1,10.93,0.15,9.29,1.38
+ORD-100132,2025-02-08,Central,Corporate,Furniture,Storage,Storage Pro,6,104.1,0.1,562.12,80.59
+ORD-100762,2025-02-08,South,Consumer,Technology,Laptops,Laptops Premium,4,891.89,0.0,3567.56,623.3
+ORD-100655,2025-02-08,West,Corporate,Office Supplies,Labels,Labels Premium,1,9.06,0.2,7.25,1.67
+ORD-100755,2025-02-09,West,Consumer,Furniture,Storage,Storage Premium,2,98.54,0.3,137.96,-4.54
+ORD-100330,2025-02-09,Central,Home Office,Office Supplies,Binders,Binders Plus,4,25.09,0.05,95.34,18.71
+ORD-100034,2025-02-09,East,Home Office,Technology,Phones,Phones Plus,2,487.88,0.1,878.18,60.79
+ORD-100308,2025-02-09,West,Corporate,Office Supplies,Labels,Labels Plus,2,7.77,0.0,15.55,6.37
+ORD-100456,2025-02-09,Central,Corporate,Technology,Accessories,Accessories Premium,2,38.59,0.15,65.6,14.18
+ORD-100113,2025-02-10,East,Consumer,Office Supplies,Binders,Binders Premium,8,27.44,0.2,175.64,18.71
+ORD-101129,2025-02-10,East,Home Office,Furniture,Storage,Storage Plus,3,80.92,0.15,206.36,16.34
+ORD-101084,2025-02-10,South,Home Office,Office Supplies,Pens,Pens Plus,1,11.78,0.0,11.78,4.34
+ORD-100158,2025-02-11,West,Corporate,Office Supplies,Labels,Labels Pro,3,8.75,0.05,24.95,8.96
+ORD-100134,2025-02-12,Central,Home Office,Technology,Printers,Printers Pro,3,217.67,0.15,555.06,-40.9
+ORD-101003,2025-02-12,Central,Home Office,Technology,Printers,Printers Basic,2,218.74,0.15,371.86,-14.21
+ORD-100706,2025-02-16,West,Consumer,Furniture,Storage,Storage Plus,1,108.23,0.05,102.82,17.0
+ORD-100079,2025-02-16,Central,Corporate,Technology,Laptops,Laptops Basic,1,797.58,0.3,558.3,-38.9
+ORD-100131,2025-02-17,South,Home Office,Furniture,Bookcases,Bookcases Pro,6,160.93,0.0,965.58,25.67
+ORD-101029,2025-02-17,East,Corporate,Office Supplies,Paper,Paper Plus,1,17.67,0.0,17.67,4.73
+ORD-100126,2025-02-17,Central,Corporate,Technology,Accessories,Accessories Pro,2,49.48,0.15,84.12,15.12
+ORD-100980,2025-02-17,South,Corporate,Furniture,Desks,Desks Pro,6,313.94,0.15,1601.08,-6.8
+ORD-100437,2025-02-18,West,Consumer,Office Supplies,Paper,Paper Plus,5,17.29,0.1,77.8,14.76
+ORD-101189,2025-02-18,West,Corporate,Office Supplies,Paper,Paper Basic,2,18.45,0.0,36.91,11.26
+ORD-100116,2025-02-19,Central,Home Office,Technology,Phones,Phones Premium,2,492.67,0.0,985.34,216.41
+ORD-100570,2025-02-21,East,Home Office,Technology,Laptops,Laptops Pro,4,814.76,0.0,3259.05,515.37
+ORD-100288,2025-02-21,East,Corporate,Office Supplies,Binders,Binders Basic,1,21.51,0.1,19.36,3.97
+ORD-100922,2025-02-22,South,Corporate,Office Supplies,Paper,Paper Plus,10,19.22,0.0,192.19,54.49
+ORD-100978,2025-02-22,South,Home Office,Office Supplies,Pens,Pens Premium,3,11.19,0.0,33.56,12.96
+ORD-100708,2025-02-22,West,Corporate,Technology,Laptops,Laptops Pro,3,946.56,0.2,2271.74,-104.41
+ORD-100129,2025-02-24,West,Corporate,Furniture,Chairs,Chairs Plus,3,138.53,0.0,415.6,58.23
+ORD-100930,2025-02-26,Central,Corporate,Furniture,Desks,Desks Premium,5,366.2,0.2,1464.8,-9.34
+ORD-100535,2025-02-26,West,Consumer,Technology,Accessories,Accessories Premium,2,50.96,0.0,101.92,28.94
+ORD-100228,2025-02-27,South,Corporate,Office Supplies,Binders,Binders Plus,6,22.66,0.2,108.78,17.22
+ORD-100597,2025-02-27,East,Corporate,Furniture,Desks,Desks Pro,2,289.87,0.0,579.74,52.87
+ORD-100266,2025-02-28,Central,Consumer,Technology,Accessories,Accessories Basic,4,48.29,0.15,164.2,35.43
+ORD-100677,2025-02-28,East,Corporate,Office Supplies,Paper,Paper Plus,6,16.0,0.1,86.39,16.63
+ORD-100424,2025-02-28,South,Home Office,Technology,Phones,Phones Basic,3,508.25,0.0,1524.74,215.72
+ORD-100242,2025-03-02,Central,Consumer,Furniture,Storage,Storage Pro,1,86.47,0.1,77.82,6.54
+ORD-101161,2025-03-02,East,Home Office,Furniture,Desks,Desks Pro,8,281.72,0.05,2141.04,221.68
+ORD-101118,2025-03-04,South,Consumer,Furniture,Chairs,Chairs Pro,5,175.79,0.0,878.97,147.21
+ORD-100260,2025-03-05,East,Consumer,Office Supplies,Binders,Binders Plus,4,26.37,0.15,89.67,15.93
+ORD-100985,2025-03-05,West,Corporate,Furniture,Bookcases,Bookcases Plus,3,191.59,0.1,517.28,17.79
+ORD-101156,2025-03-05,South,Corporate,Furniture,Storage,Storage Plus,1,96.41,0.3,67.49,-1.88
+ORD-100786,2025-03-06,Central,Home Office,Furniture,Storage,Storage Pro,1,88.55,0.15,75.27,1.14
+ORD-100966,2025-03-06,Central,Corporate,Office Supplies,Binders,Binders Premium,4,22.02,0.0,88.1,27.63
+ORD-100698,2025-03-07,Central,Home Office,Office Supplies,Binders,Binders Plus,5,23.29,0.15,98.99,23.14
+ORD-100981,2025-03-07,Central,Corporate,Office Supplies,Pens,Pens Premium,1,13.13,0.1,11.82,2.51
+ORD-100270,2025-03-07,East,Consumer,Office Supplies,Paper,Paper Plus,1,20.65,0.0,20.65,6.6
+ORD-100548,2025-03-08,West,Corporate,Office Supplies,Pens,Pens Plus,2,10.81,0.2,17.29,3.52
+ORD-100915,2025-03-08,Central,Home Office,Furniture,Bookcases,Bookcases Pro,3,194.21,0.05,553.5,17.8
+ORD-100688,2025-03-09,South,Consumer,Office Supplies,Paper,Paper Plus,4,16.94,0.0,67.76,18.43
+ORD-100520,2025-03-10,East,Corporate,Furniture,Desks,Desks Pro,10,316.66,0.15,2691.61,-3.96
+ORD-100468,2025-03-11,Central,Consumer,Office Supplies,Paper,Paper Basic,1,18.62,0.0,18.62,4.08
+ORD-100665,2025-03-12,South,Consumer,Technology,Phones,Phones Plus,1,431.69,0.0,431.69,78.16
+ORD-100455,2025-03-12,West,Consumer,Office Supplies,Binders,Binders Plus,3,25.03,0.1,67.59,10.02
+ORD-101188,2025-03-13,South,Home Office,Office Supplies,Pens,Pens Premium,3,11.53,0.15,29.41,8.46
+ORD-100531,2025-03-13,East,Home Office,Office Supplies,Binders,Binders Pro,1,23.7,0.15,20.14,3.97
+ORD-100394,2025-03-14,South,Corporate,Office Supplies,Binders,Binders Plus,4,22.61,0.1,81.41,19.72
+ORD-100720,2025-03-14,West,Consumer,Office Supplies,Labels,Labels Plus,1,8.11,0.15,6.89,1.57
+ORD-100967,2025-03-15,West,Home Office,Office Supplies,Paper,Paper Basic,2,15.5,0.0,30.99,7.56
+ORD-101048,2025-03-15,South,Consumer,Furniture,Bookcases,Bookcases Plus,2,203.39,0.0,406.77,31.43
+ORD-100494,2025-03-16,South,Consumer,Office Supplies,Labels,Labels Pro,2,10.33,0.1,18.59,5.47
+ORD-100137,2025-03-16,East,Home Office,Office Supplies,Pens,Pens Premium,2,10.69,0.3,14.97,1.43
+ORD-100625,2025-03-17,West,Home Office,Office Supplies,Pens,Pens Pro,4,12.73,0.15,43.3,8.98
+ORD-100490,2025-03-18,East,Corporate,Office Supplies,Labels,Labels Premium,2,9.51,0.2,15.22,3.51
+ORD-100850,2025-03-18,Central,Consumer,Office Supplies,Binders,Binders Pro,4,26.36,0.15,89.63,11.03
+ORD-100193,2025-03-19,West,Home Office,Office Supplies,Pens,Pens Premium,1,10.94,0.0,10.94,4.43
+ORD-101181,2025-03-20,West,Home Office,Office Supplies,Labels,Labels Pro,1,8.14,0.1,7.33,2.11
+ORD-100956,2025-03-22,East,Corporate,Office Supplies,Paper,Paper Plus,2,17.46,0.15,29.68,6.31
+ORD-100896,2025-03-23,Central,Corporate,Furniture,Chairs,Chairs Plus,1,178.14,0.05,169.23,15.87
+ORD-100767,2025-03-23,East,Home Office,Office Supplies,Labels,Labels Plus,1,9.59,0.1,8.63,2.35
+ORD-100269,2025-03-23,South,Consumer,Furniture,Chairs,Chairs Pro,8,151.94,0.3,850.89,-37.01
+ORD-101135,2025-03-24,South,Corporate,Office Supplies,Labels,Labels Plus,6,9.1,0.05,51.88,15.21
+ORD-100953,2025-03-25,East,Corporate,Office Supplies,Labels,Labels Basic,5,10.34,0.15,43.95,8.81
+ORD-100672,2025-03-25,West,Corporate,Furniture,Storage,Storage Pro,3,96.49,0.1,260.53,30.23
+ORD-100323,2025-03-25,Central,Corporate,Office Supplies,Binders,Binders Pro,1,25.25,0.0,25.25,6.77
+ORD-100601,2025-03-26,East,Corporate,Furniture,Bookcases,Bookcases Pro,4,189.29,0.3,530.0,-28.9
+ORD-100900,2025-03-26,Central,Corporate,Technology,Printers,Printers Plus,1,189.97,0.1,170.97,3.2
+ORD-100987,2025-03-26,West,Consumer,Office Supplies,Binders,Binders Premium,1,26.07,0.1,23.46,4.82
+ORD-100702,2025-03-26,Central,Consumer,Office Supplies,Binders,Binders Pro,2,24.01,0.0,48.02,15.51
+ORD-101200,2025-03-29,East,Corporate,Technology,Accessories,Accessories Plus,2,50.22,0.0,100.43,29.62
+ORD-100675,2025-03-30,East,Consumer,Office Supplies,Paper,Paper Pro,6,19.08,0.1,103.03,27.15
+ORD-100343,2025-03-30,West,Consumer,Office Supplies,Paper,Paper Basic,2,20.57,0.1,37.03,6.95
+ORD-100825,2025-03-31,Central,Consumer,Technology,Phones,Phones Plus,4,451.39,0.1,1625.02,175.87
+ORD-100996,2025-04-02,Central,Home Office,Furniture,Desks,Desks Plus,1,294.83,0.05,280.09,34.4
+ORD-100240,2025-04-03,South,Consumer,Technology,Laptops,Laptops Plus,4,1030.41,0.15,3503.38,221.9
+ORD-100599,2025-04-03,East,Consumer,Technology,Phones,Phones Basic,10,401.75,0.3,2812.23,-31.13
+ORD-100245,2025-04-04,South,Corporate,Office Supplies,Labels,Labels Pro,1,8.74,0.3,6.11,1.45
+ORD-101171,2025-04-04,South,Corporate,Technology,Phones,Phones Pro,6,456.49,0.2,2191.14,-262.26
+ORD-100192,2025-04-05,East,Corporate,Office Supplies,Paper,Paper Pro,5,20.33,0.1,91.47,23.48
+ORD-100085,2025-04-05,South,Corporate,Furniture,Bookcases,Bookcases Premium,1,179.03,0.3,125.32,-14.18
+ORD-100880,2025-04-05,West,Home Office,Technology,Printers,Printers Basic,1,197.93,0.1,178.14,1.27
+ORD-101172,2025-04-06,Central,Consumer,Office Supplies,Pens,Pens Premium,3,10.37,0.15,26.44,5.1
+ORD-100040,2025-04-06,West,Corporate,Office Supplies,Paper,Paper Pro,2,18.49,0.1,33.28,4.66
+ORD-100658,2025-04-07,South,Corporate,Technology,Printers,Printers Plus,1,202.32,0.05,192.2,4.9
+ORD-101111,2025-04-07,Central,Corporate,Furniture,Desks,Desks Plus,5,291.56,0.15,1239.14,38.48
+ORD-100475,2025-04-08,Central,Consumer,Office Supplies,Pens,Pens Basic,4,11.74,0.1,42.27,9.78
+ORD-101196,2025-04-08,West,Consumer,Office Supplies,Binders,Binders Premium,3,25.34,0.3,53.21,-8.19
+ORD-100958,2025-04-08,Central,Home Office,Technology,Printers,Printers Plus,2,195.84,0.05,372.09,41.75
+ORD-100130,2025-04-08,Central,Home Office,Furniture,Desks,Desks Pro,3,275.34,0.15,702.13,5.65
+ORD-100743,2025-04-08,West,Corporate,Office Supplies,Binders,Binders Premium,1,27.33,0.15,23.23,3.28
+ORD-100458,2025-04-08,Central,Home Office,Office Supplies,Binders,Binders Basic,5,24.75,0.1,111.37,23.86
+ORD-100341,2025-04-09,West,Home Office,Technology,Accessories,Accessories Plus,8,51.36,0.1,369.79,92.28
+ORD-100782,2025-04-10,West,Consumer,Office Supplies,Pens,Pens Pro,4,13.37,0.0,53.5,14.68
+ORD-100099,2025-04-10,South,Home Office,Technology,Laptops,Laptops Plus,4,1020.83,0.05,3879.17,718.82
+ORD-100920,2025-04-10,South,Home Office,Technology,Phones,Phones Basic,4,401.59,0.2,1285.1,-44.26
+ORD-100673,2025-04-10,South,Corporate,Office Supplies,Paper,Paper Pro,3,19.76,0.1,53.36,10.02
+ORD-101128,2025-04-11,Central,Home Office,Office Supplies,Labels,Labels Premium,8,8.6,0.0,68.83,25.03
+ORD-100616,2025-04-12,West,Consumer,Office Supplies,Labels,Labels Pro,1,8.01,0.0,8.01,3.04
+ORD-101068,2025-04-13,East,Home Office,Furniture,Storage,Storage Plus,4,104.61,0.15,355.68,25.67
+ORD-100600,2025-04-14,South,Corporate,Technology,Laptops,Laptops Pro,4,815.91,0.0,3263.64,730.79
+ORD-100569,2025-04-14,Central,Consumer,Technology,Laptops,Laptops Pro,2,1031.05,0.0,2062.1,280.74
+ORD-100026,2025-04-15,Central,Home Office,Furniture,Chairs,Chairs Plus,3,168.38,0.3,353.6,-40.43
+ORD-100984,2025-04-18,West,Corporate,Office Supplies,Paper,Paper Basic,3,16.58,0.0,49.73,13.94
+ORD-101130,2025-04-19,South,Corporate,Furniture,Desks,Desks Premium,4,350.47,0.3,981.31,-59.28
+ORD-100934,2025-04-19,South,Consumer,Office Supplies,Labels,Labels Pro,2,10.14,0.15,17.24,2.97
+ORD-100244,2025-04-20,West,Corporate,Technology,Phones,Phones Premium,5,419.51,0.0,2097.54,374.43
+ORD-100824,2025-04-20,South,Home Office,Furniture,Bookcases,Bookcases Basic,3,202.07,0.15,515.27,33.21
+ORD-101089,2025-04-20,West,Consumer,Technology,Accessories,Accessories Basic,3,40.87,0.1,110.35,28.82
+ORD-100771,2025-04-21,Central,Home Office,Technology,Accessories,Accessories Plus,2,40.05,0.1,72.09,18.68
+ORD-100502,2025-04-21,South,Consumer,Furniture,Chairs,Chairs Pro,1,137.58,0.1,123.82,13.63
+ORD-100986,2025-04-21,West,Home Office,Technology,Accessories,Accessories Pro,4,43.8,0.15,148.93,29.09
+ORD-100652,2025-04-22,East,Consumer,Furniture,Storage,Storage Pro,3,93.27,0.3,195.87,-26.4
+ORD-100123,2025-04-23,Central,Consumer,Office Supplies,Pens,Pens Basic,4,13.77,0.15,46.82,12.66
+ORD-100003,2025-04-23,East,Consumer,Technology,Phones,Phones Basic,5,457.17,0.1,2057.26,232.97
+ORD-100842,2025-04-24,East,Corporate,Technology,Phones,Phones Pro,5,390.82,0.0,1954.1,307.78
+ORD-100730,2025-04-25,Central,Home Office,Office Supplies,Binders,Binders Premium,3,23.51,0.2,56.41,11.1
+ORD-100255,2025-04-27,East,Home Office,Technology,Accessories,Accessories Premium,1,51.22,0.15,43.54,10.18
+ORD-100316,2025-04-27,Central,Corporate,Technology,Accessories,Accessories Premium,4,43.88,0.1,157.98,44.37
+ORD-100372,2025-04-28,Central,Corporate,Technology,Printers,Printers Plus,5,220.81,0.0,1104.04,130.03
+ORD-100156,2025-04-28,West,Consumer,Office Supplies,Pens,Pens Premium,2,12.31,0.05,23.38,7.09
+ORD-100237,2025-04-29,East,Corporate,Technology,Accessories,Accessories Basic,1,49.18,0.1,44.27,9.76
+ORD-100446,2025-04-29,East,Corporate,Furniture,Storage,Storage Pro,2,83.51,0.0,167.01,21.03
+ORD-100479,2025-04-30,Central,Corporate,Furniture,Chairs,Chairs Basic,3,171.74,0.2,412.18,-15.99
+ORD-100162,2025-04-30,South,Home Office,Technology,Phones,Phones Basic,1,480.12,0.0,480.12,88.06
+ORD-100819,2025-05-01,South,Corporate,Office Supplies,Pens,Pens Pro,2,10.54,0.2,16.87,3.61
+ORD-100311,2025-05-01,Central,Corporate,Technology,Phones,Phones Basic,1,463.96,0.1,417.56,12.33
+ORD-100822,2025-05-01,South,Corporate,Technology,Laptops,Laptops Pro,3,850.86,0.2,2042.05,-48.53
+ORD-100108,2025-05-01,Central,Consumer,Technology,Printers,Printers Premium,4,228.28,0.0,913.13,142.99
+ORD-101049,2025-05-03,South,Consumer,Furniture,Desks,Desks Pro,5,361.99,0.1,1628.94,70.63
+ORD-100122,2025-05-03,South,Corporate,Office Supplies,Pens,Pens Premium,1,12.19,0.1,10.97,2.91
+ORD-100859,2025-05-04,Central,Consumer,Technology,Printers,Printers Basic,6,233.2,0.05,1329.24,113.35
+ORD-101132,2025-05-04,South,Home Office,Office Supplies,Binders,Binders Premium,5,26.38,0.0,131.88,34.79
+ORD-100080,2025-05-04,Central,Home Office,Office Supplies,Pens,Pens Basic,6,11.69,0.0,70.13,25.21
+ORD-100641,2025-05-05,Central,Corporate,Technology,Phones,Phones Basic,3,493.44,0.05,1406.3,219.85
+ORD-100736,2025-05-05,West,Corporate,Technology,Laptops,Laptops Pro,2,787.91,0.0,1575.82,242.82
+ORD-100283,2025-05-05,South,Consumer,Technology,Laptops,Laptops Premium,8,907.74,0.1,6535.71,299.01
+ORD-100312,2025-05-06,South,Home Office,Office Supplies,Labels,Labels Premium,1,8.88,0.0,8.88,3.34
+ORD-101071,2025-05-08,South,Corporate,Office Supplies,Labels,Labels Plus,1,7.8,0.15,6.63,1.41
+ORD-100416,2025-05-10,East,Home Office,Technology,Laptops,Laptops Premium,1,1031.54,0.15,876.81,67.26
+ORD-100257,2025-05-10,West,Corporate,Technology,Printers,Printers Pro,10,214.22,0.0,2142.17,257.21
+ORD-100049,2025-05-10,East,Consumer,Technology,Printers,Printers Basic,3,187.26,0.3,393.26,-42.39
+ORD-100711,2025-05-11,East,Home Office,Furniture,Chairs,Chairs Premium,2,175.16,0.0,350.32,38.91
+ORD-100550,2025-05-12,East,Corporate,Office Supplies,Paper,Paper Basic,1,16.1,0.15,13.68,2.1
+ORD-100827,2025-05-12,East,Consumer,Office Supplies,Labels,Labels Pro,5,9.08,0.05,43.12,13.64
+ORD-100098,2025-05-13,Central,Home Office,Technology,Accessories,Accessories Basic,3,48.37,0.2,116.09,22.19
+ORD-100191,2025-05-14,Central,Consumer,Office Supplies,Labels,Labels Premium,2,7.89,0.05,15.0,4.27
+ORD-100060,2025-05-14,Central,Home Office,Office Supplies,Binders,Binders Premium,3,26.72,0.15,68.15,12.85
+ORD-100813,2025-05-15,East,Corporate,Furniture,Bookcases,Bookcases Plus,4,161.44,0.1,581.17,1.88
+ORD-100615,2025-05-16,Central,Corporate,Technology,Laptops,Laptops Premium,3,795.27,0.1,2147.24,162.71
+ORD-100788,2025-05-16,West,Consumer,Office Supplies,Binders,Binders Pro,1,21.44,0.3,15.01,-0.62
+ORD-100636,2025-05-16,South,Home Office,Technology,Phones,Phones Basic,2,441.09,0.0,882.19,169.2
+ORD-100075,2025-05-16,West,Consumer,Office Supplies,Pens,Pens Pro,2,10.55,0.1,18.99,3.9
+ORD-101062,2025-05-17,Central,Consumer,Office Supplies,Pens,Pens Basic,8,13.21,0.05,100.36,28.86
+ORD-101149,2025-05-18,South,Corporate,Office Supplies,Binders,Binders Plus,1,26.06,0.1,23.45,6.28
+ORD-100587,2025-05-18,West,Corporate,Furniture,Storage,Storage Plus,2,101.02,0.0,202.04,33.84
+ORD-101183,2025-05-19,West,Corporate,Furniture,Bookcases,Bookcases Pro,1,196.17,0.2,156.94,-8.73
+ORD-100941,2025-05-20,Central,Corporate,Technology,Laptops,Laptops Pro,2,836.56,0.0,1673.11,272.09
+ORD-100422,2025-05-22,West,Consumer,Technology,Laptops,Laptops Premium,2,949.11,0.3,1328.76,-132.78
+ORD-100666,2025-05-22,Central,Home Office,Office Supplies,Pens,Pens Basic,2,12.92,0.15,21.97,4.8
+ORD-100875,2025-05-24,Central,Corporate,Office Supplies,Paper,Paper Pro,6,15.67,0.0,94.01,25.44
+ORD-100184,2025-05-24,West,Consumer,Furniture,Bookcases,Bookcases Pro,1,198.07,0.0,198.07,23.04
+ORD-100008,2025-05-24,West,Corporate,Office Supplies,Labels,Labels Basic,8,7.75,0.2,49.6,-2.3
+ORD-100175,2025-05-24,South,Consumer,Office Supplies,Binders,Binders Premium,1,23.74,0.1,21.36,5.7
+ORD-100866,2025-05-25,East,Corporate,Office Supplies,Paper,Paper Plus,3,20.38,0.05,58.07,14.15
+ORD-100932,2025-05-26,East,Consumer,Office Supplies,Pens,Pens Pro,3,10.93,0.15,27.87,6.03
+ORD-100086,2025-05-26,East,Home Office,Office Supplies,Labels,Labels Basic,1,7.73,0.0,7.73,3.02
+ORD-100204,2025-05-26,West,Home Office,Office Supplies,Pens,Pens Plus,3,11.72,0.1,31.64,8.78
+ORD-100043,2025-05-27,South,Home Office,Furniture,Chairs,Chairs Basic,4,153.35,0.3,429.39,-50.34
+ORD-101194,2025-05-28,Central,Consumer,Technology,Phones,Phones Premium,5,438.46,0.1,1973.09,183.45
+ORD-100982,2025-05-28,East,Home Office,Office Supplies,Pens,Pens Plus,2,11.77,0.1,21.19,5.83
+ORD-100223,2025-05-29,West,Corporate,Furniture,Chairs,Chairs Premium,4,183.94,0.2,588.62,-62.53
+ORD-100110,2025-05-30,West,Home Office,Office Supplies,Labels,Labels Basic,2,9.3,0.2,14.88,2.83
+ORD-101064,2025-05-30,South,Home Office,Office Supplies,Binders,Binders Pro,1,20.43,0.0,20.43,6.85
+ORD-101041,2025-05-31,Central,Corporate,Office Supplies,Labels,Labels Basic,5,9.13,0.0,45.67,16.85
+ORD-100892,2025-06-02,South,Home Office,Technology,Phones,Phones Basic,2,433.7,0.1,780.66,41.1
+ORD-100906,2025-06-02,Central,Corporate,Furniture,Desks,Desks Pro,3,347.88,0.15,887.09,-25.6
+ORD-101045,2025-06-02,Central,Corporate,Furniture,Bookcases,Bookcases Plus,2,177.45,0.05,337.15,20.16
+ORD-100541,2025-06-02,South,Home Office,Office Supplies,Paper,Paper Pro,4,16.14,0.1,58.09,14.82
+ORD-101077,2025-06-04,West,Consumer,Furniture,Bookcases,Bookcases Pro,8,156.95,0.0,1255.61,93.31
+ORD-101197,2025-06-05,Central,Consumer,Furniture,Storage,Storage Plus,10,83.61,0.0,836.09,146.76
+ORD-100430,2025-06-06,South,Home Office,Technology,Accessories,Accessories Pro,3,38.91,0.1,105.06,25.07
+ORD-100015,2025-06-08,East,Consumer,Office Supplies,Paper,Paper Pro,1,17.15,0.0,17.15,3.9
+ORD-100774,2025-06-08,South,Home Office,Office Supplies,Labels,Labels Pro,3,9.99,0.1,26.96,7.62
+ORD-100212,2025-06-08,Central,Consumer,Office Supplies,Pens,Pens Premium,5,11.18,0.2,44.73,11.78
+ORD-100177,2025-06-08,East,Home Office,Furniture,Chairs,Chairs Pro,1,161.07,0.1,144.96,1.36
+ORD-100236,2025-06-09,Central,Home Office,Technology,Phones,Phones Pro,1,516.7,0.1,465.03,54.46
+ORD-100395,2025-06-10,East,Home Office,Office Supplies,Pens,Pens Premium,1,10.36,0.15,8.8,1.99
+ORD-100225,2025-06-11,Central,Home Office,Technology,Phones,Phones Plus,1,449.23,0.1,404.31,50.31
+ORD-100697,2025-06-11,South,Corporate,Office Supplies,Pens,Pens Premium,6,12.88,0.0,77.3,29.2
+ORD-100727,2025-06-11,Central,Home Office,Furniture,Chairs,Chairs Plus,3,177.64,0.15,452.99,11.44
+ORD-100174,2025-06-12,South,Corporate,Office Supplies,Labels,Labels Plus,5,8.42,0.2,33.67,7.74
+ORD-100461,2025-06-12,South,Corporate,Office Supplies,Paper,Paper Pro,3,19.06,0.1,51.47,13.76
+ORD-100681,2025-06-12,West,Corporate,Office Supplies,Binders,Binders Basic,4,27.31,0.0,109.22,35.8
+ORD-100793,2025-06-12,East,Home Office,Furniture,Bookcases,Bookcases Premium,1,165.84,0.05,157.54,8.57
+ORD-101119,2025-06-12,West,Home Office,Office Supplies,Paper,Paper Premium,4,16.32,0.15,55.49,6.41
+ORD-101137,2025-06-13,South,Home Office,Office Supplies,Pens,Pens Pro,8,10.84,0.1,78.06,21.78
+ORD-100676,2025-06-14,Central,Corporate,Office Supplies,Labels,Labels Premium,1,9.24,0.1,8.31,2.36
+ORD-100318,2025-06-15,South,Corporate,Office Supplies,Pens,Pens Basic,6,12.04,0.1,64.99,14.51
+ORD-100713,2025-06-15,Central,Consumer,Technology,Laptops,Laptops Pro,2,845.28,0.2,1352.45,-42.82
+ORD-100731,2025-06-16,South,Consumer,Technology,Phones,Phones Premium,10,478.3,0.0,4782.99,845.82
+ORD-100760,2025-06-17,West,Corporate,Office Supplies,Binders,Binders Pro,3,23.04,0.0,69.12,20.58
+ORD-100317,2025-06-17,Central,Corporate,Technology,Printers,Printers Basic,1,191.95,0.15,163.16,7.09
+ORD-101033,2025-06-18,West,Corporate,Office Supplies,Binders,Binders Basic,3,26.45,0.2,63.47,9.68
+ORD-100737,2025-06-18,South,Home Office,Office Supplies,Pens,Pens Basic,3,11.87,0.15,30.28,5.05
+ORD-101009,2025-06-20,Central,Consumer,Technology,Laptops,Laptops Pro,2,808.46,0.05,1536.07,217.34
+ORD-100662,2025-06-21,South,Corporate,Office Supplies,Binders,Binders Basic,6,24.41,0.1,131.84,17.19
+ORD-100013,2025-06-21,East,Home Office,Office Supplies,Paper,Paper Plus,2,17.18,0.2,27.49,6.03
+ORD-100886,2025-06-21,Central,Consumer,Office Supplies,Paper,Paper Pro,5,19.5,0.0,97.51,25.05
+ORD-100631,2025-06-22,West,Home Office,Office Supplies,Binders,Binders Pro,5,23.85,0.1,107.33,25.11
+ORD-100557,2025-06-22,South,Home Office,Office Supplies,Binders,Binders Premium,2,24.77,0.0,49.53,18.03
+ORD-100377,2025-06-22,East,Corporate,Office Supplies,Binders,Binders Pro,8,22.96,0.05,174.47,39.22
+ORD-100215,2025-06-22,West,Home Office,Office Supplies,Binders,Binders Plus,2,21.46,0.1,38.63,8.93
+ORD-101002,2025-06-22,East,Consumer,Office Supplies,Binders,Binders Basic,10,22.42,0.0,224.2,72.39
+ORD-100757,2025-06-23,South,Corporate,Office Supplies,Binders,Binders Pro,4,26.12,0.0,104.5,30.7
+ORD-100805,2025-06-23,South,Home Office,Furniture,Chairs,Chairs Basic,5,180.38,0.0,901.92,201.52
+ORD-100471,2025-06-23,South,Consumer,Office Supplies,Labels,Labels Pro,1,9.87,0.2,7.9,1.76
+ORD-100739,2025-06-23,Central,Home Office,Furniture,Storage,Storage Basic,10,83.27,0.05,791.06,75.82
+ORD-100432,2025-06-24,East,Consumer,Technology,Printers,Printers Pro,4,228.23,0.15,776.0,21.46
+ORD-100603,2025-06-24,East,Corporate,Office Supplies,Paper,Paper Plus,1,20.36,0.1,18.32,3.84
+ORD-101036,2025-06-26,East,Consumer,Furniture,Desks,Desks Basic,1,331.04,0.1,297.93,28.87
+ORD-100059,2025-06-27,Central,Corporate,Office Supplies,Binders,Binders Plus,10,21.84,0.0,218.37,56.63
+ORD-101139,2025-06-27,West,Consumer,Technology,Printers,Printers Pro,1,190.64,0.15,162.05,7.63
+ORD-100878,2025-06-28,Central,Corporate,Office Supplies,Pens,Pens Plus,4,12.88,0.3,36.07,3.01
+ORD-100062,2025-06-28,West,Corporate,Office Supplies,Paper,Paper Plus,3,20.18,0.0,60.54,15.36
+ORD-100512,2025-06-29,East,Corporate,Furniture,Desks,Desks Basic,6,343.02,0.0,2058.14,173.77
+ORD-100391,2025-06-29,South,Consumer,Office Supplies,Labels,Labels Pro,4,8.16,0.1,29.37,7.05
+ORD-100378,2025-06-29,Central,Home Office,Technology,Accessories,Accessories Plus,2,50.38,0.0,100.76,32.43
+ORD-100360,2025-07-01,Central,Home Office,Office Supplies,Binders,Binders Pro,2,21.08,0.3,29.51,3.81
+ORD-100463,2025-07-01,Central,Consumer,Office Supplies,Labels,Labels Basic,1,8.55,0.1,7.7,2.05
+ORD-100895,2025-07-01,West,Home Office,Furniture,Desks,Desks Premium,6,300.45,0.0,1802.72,180.41
+ORD-100493,2025-07-04,South,Corporate,Office Supplies,Binders,Binders Basic,2,21.4,0.0,42.81,14.77
+ORD-101065,2025-07-04,Central,Corporate,Office Supplies,Paper,Paper Pro,3,16.93,0.1,45.71,6.73
+ORD-101098,2025-07-06,Central,Consumer,Technology,Laptops,Laptops Basic,5,1032.68,0.1,4647.05,730.01
+ORD-100247,2025-07-07,Central,Consumer,Technology,Printers,Printers Plus,5,247.55,0.0,1237.74,197.57
+ORD-101073,2025-07-07,West,Home Office,Technology,Printers,Printers Plus,4,195.08,0.15,663.27,-6.13
+ORD-100042,2025-07-08,South,Consumer,Furniture,Desks,Desks Pro,6,360.2,0.0,2161.23,204.18
+ORD-100234,2025-07-08,West,Corporate,Office Supplies,Labels,Labels Pro,3,8.33,0.1,22.5,6.24
+ORD-100051,2025-07-09,West,Home Office,Furniture,Desks,Desks Basic,3,298.23,0.15,760.48,-6.55
+ORD-100014,2025-07-10,Central,Home Office,Technology,Printers,Printers Plus,4,205.14,0.05,779.53,59.13
+ORD-101134,2025-07-11,East,Corporate,Office Supplies,Labels,Labels Premium,5,10.24,0.15,43.53,11.16
+ORD-100742,2025-07-11,West,Consumer,Office Supplies,Binders,Binders Basic,4,26.11,0.2,83.54,20.21
+ORD-100714,2025-07-12,West,Home Office,Office Supplies,Binders,Binders Basic,1,21.0,0.05,19.95,5.49
+ORD-100207,2025-07-12,West,Corporate,Technology,Phones,Phones Premium,1,470.0,0.2,376.0,6.08
+ORD-100489,2025-07-13,South,Corporate,Furniture,Desks,Desks Pro,6,350.69,0.0,2104.12,249.29
+ORD-100128,2025-07-13,South,Home Office,Furniture,Desks,Desks Premium,3,285.82,0.2,685.96,-36.38
+ORD-100423,2025-07-14,East,Consumer,Office Supplies,Paper,Paper Basic,3,15.88,0.1,42.87,10.47
+ORD-100657,2025-07-14,Central,Consumer,Technology,Printers,Printers Premium,1,195.84,0.15,166.47,-0.39
+ORD-100089,2025-07-15,West,Corporate,Technology,Printers,Printers Premium,5,217.94,0.15,926.24,21.59
+ORD-101148,2025-07-15,Central,Consumer,Office Supplies,Pens,Pens Basic,1,13.35,0.15,11.35,3.13
+ORD-100320,2025-07-15,South,Consumer,Office Supplies,Binders,Binders Plus,1,27.19,0.1,24.47,6.61
+ORD-101061,2025-07-17,West,Consumer,Technology,Accessories,Accessories Basic,6,45.85,0.15,233.83,42.16
+ORD-100645,2025-07-17,West,Corporate,Technology,Phones,Phones Basic,2,447.38,0.1,805.29,106.22
+ORD-100911,2025-07-17,East,Corporate,Technology,Laptops,Laptops Pro,1,931.88,0.1,838.69,34.11
+ORD-100173,2025-07-18,South,Corporate,Office Supplies,Labels,Labels Pro,3,8.78,0.05,25.02,7.04
+ORD-101058,2025-07-18,East,Consumer,Office Supplies,Labels,Labels Premium,1,8.23,0.1,7.4,2.22
+ORD-100370,2025-07-18,East,Home Office,Office Supplies,Labels,Labels Premium,3,10.16,0.0,30.48,13.86
+ORD-100864,2025-07-18,East,Corporate,Office Supplies,Labels,Labels Premium,3,8.92,0.15,22.76,6.06
+ORD-100002,2025-07-19,West,Home Office,Technology,Phones,Phones Premium,10,499.52,0.15,4245.9,392.76
+ORD-100734,2025-07-20,Central,Home Office,Office Supplies,Paper,Paper Plus,1,19.93,0.0,19.93,5.42
+ORD-100836,2025-07-21,Central,Home Office,Technology,Accessories,Accessories Plus,4,48.05,0.2,153.75,26.03
+ORD-100402,2025-07-22,West,Corporate,Office Supplies,Paper,Paper Pro,10,16.37,0.0,163.7,42.7
+ORD-100050,2025-07-22,West,Home Office,Office Supplies,Paper,Paper Plus,3,20.15,0.0,60.44,17.02
+ORD-100815,2025-07-22,South,Home Office,Technology,Phones,Phones Basic,3,455.3,0.3,956.13,-54.23
+ORD-100602,2025-07-23,West,Consumer,Furniture,Chairs,Chairs Pro,4,177.62,0.0,710.47,125.64
+ORD-100210,2025-07-23,Central,Consumer,Office Supplies,Labels,Labels Pro,3,8.89,0.15,22.67,4.48
+ORD-100598,2025-07-23,Central,Corporate,Office Supplies,Labels,Labels Premium,1,10.12,0.0,10.12,3.91
+ORD-100107,2025-07-24,East,Corporate,Technology,Printers,Printers Plus,1,233.29,0.1,209.96,6.77
+ORD-100112,2025-07-24,West,Consumer,Office Supplies,Paper,Paper Plus,4,16.62,0.05,63.15,14.13
+ORD-100766,2025-07-24,West,Home Office,Office Supplies,Paper,Paper Premium,10,15.31,0.1,137.79,36.84
+ORD-100806,2025-07-25,West,Home Office,Furniture,Chairs,Chairs Basic,2,148.72,0.0,297.45,51.93
+ORD-100025,2025-07-25,Central,Home Office,Technology,Phones,Phones Plus,3,488.32,0.15,1245.21,119.65
+ORD-100278,2025-07-26,Central,Consumer,Office Supplies,Labels,Labels Pro,3,9.3,0.15,23.71,5.01
+ORD-100690,2025-07-26,South,Corporate,Office Supplies,Pens,Pens Pro,3,10.61,0.3,22.29,1.08
+ORD-100918,2025-07-27,East,Home Office,Office Supplies,Binders,Binders Pro,2,25.95,0.1,46.71,8.24
+ORD-100160,2025-07-27,Central,Home Office,Furniture,Storage,Storage Premium,3,93.91,0.1,253.56,26.77
+ORD-100613,2025-07-27,East,Corporate,Furniture,Storage,Storage Plus,5,100.57,0.15,427.44,28.16
+ORD-100476,2025-07-27,South,Corporate,Technology,Accessories,Accessories Pro,1,40.93,0.2,32.74,6.68
+ORD-100955,2025-07-28,West,Corporate,Office Supplies,Paper,Paper Plus,3,19.23,0.0,57.68,17.69
+ORD-100725,2025-07-28,West,Home Office,Furniture,Storage,Storage Pro,3,87.71,0.2,210.49,10.56
+ORD-100016,2025-07-28,East,Home Office,Furniture,Chairs,Chairs Pro,5,150.23,0.3,525.79,-61.11
+ORD-100106,2025-07-29,South,Home Office,Office Supplies,Paper,Paper Basic,1,18.94,0.05,18.0,4.56
+ORD-100990,2025-07-29,West,Home Office,Office Supplies,Binders,Binders Pro,6,22.38,0.1,120.85,31.97
+ORD-100249,2025-07-29,Central,Corporate,Office Supplies,Binders,Binders Pro,2,25.87,0.1,46.57,10.45
+ORD-100213,2025-07-30,South,Consumer,Technology,Phones,Phones Plus,1,421.83,0.0,421.83,84.25
+ORD-100559,2025-08-02,Central,Corporate,Office Supplies,Labels,Labels Pro,4,9.87,0.15,33.55,9.36
+ORD-100639,2025-08-02,East,Home Office,Technology,Accessories,Accessories Basic,2,41.53,0.0,83.05,31.36
+ORD-101133,2025-08-03,West,Consumer,Office Supplies,Binders,Binders Premium,8,21.33,0.0,170.64,57.6
+ORD-100261,2025-08-03,East,Home Office,Technology,Laptops,Laptops Basic,2,917.15,0.15,1559.16,141.1
+ORD-100692,2025-08-04,Central,Home Office,Office Supplies,Paper,Paper Pro,5,20.3,0.1,91.35,11.89
+ORD-100745,2025-08-04,East,Corporate,Office Supplies,Paper,Paper Premium,10,17.18,0.0,171.85,43.66
+ORD-100071,2025-08-04,South,Consumer,Technology,Phones,Phones Premium,3,388.6,0.0,1165.8,168.72
+ORD-100135,2025-08-04,Central,Consumer,Office Supplies,Binders,Binders Pro,1,25.81,0.0,25.81,8.37
+ORD-100105,2025-08-05,East,Corporate,Furniture,Storage,Storage Plus,2,84.44,0.15,143.54,6.88
+ORD-100484,2025-08-05,Central,Consumer,Office Supplies,Pens,Pens Premium,3,12.0,0.1,32.41,9.64
+ORD-101012,2025-08-07,West,Corporate,Furniture,Desks,Desks Basic,4,296.09,0.15,1006.7,16.22
+ORD-100716,2025-08-07,South,Home Office,Furniture,Chairs,Chairs Pro,6,147.54,0.15,752.47,37.68
+ORD-100686,2025-08-08,East,Consumer,Furniture,Desks,Desks Plus,3,273.58,0.0,820.75,61.27
+ORD-100860,2025-08-08,West,Home Office,Office Supplies,Paper,Paper Basic,2,16.0,0.1,28.8,6.29
+ORD-100852,2025-08-08,East,Home Office,Technology,Phones,Phones Premium,1,490.53,0.0,490.53,73.89
+ORD-101087,2025-08-08,South,Consumer,Technology,Phones,Phones Pro,1,447.21,0.2,357.76,14.03
+ORD-100591,2025-08-08,Central,Consumer,Office Supplies,Paper,Paper Premium,3,19.02,0.0,57.06,13.7
+ORD-100596,2025-08-09,West,Home Office,Office Supplies,Labels,Labels Basic,6,7.65,0.0,45.91,13.76
+ORD-101199,2025-08-09,Central,Consumer,Furniture,Chairs,Chairs Premium,6,151.48,0.15,772.56,31.88
+ORD-100472,2025-08-10,South,Consumer,Office Supplies,Labels,Labels Premium,8,10.17,0.0,81.33,26.6
+ORD-100428,2025-08-10,South,Corporate,Office Supplies,Binders,Binders Pro,4,24.63,0.3,68.96,6.79
+ORD-100551,2025-08-10,South,Consumer,Technology,Laptops,Laptops Basic,3,807.4,0.05,2301.08,274.31
+ORD-100654,2025-08-11,East,Consumer,Technology,Phones,Phones Pro,1,475.91,0.0,475.91,88.42
+ORD-100092,2025-08-11,West,Home Office,Technology,Printers,Printers Plus,1,215.91,0.3,151.14,-27.05
+ORD-100103,2025-08-11,South,Corporate,Office Supplies,Pens,Pens Plus,4,12.59,0.15,42.79,10.3
+ORD-101001,2025-08-13,East,Corporate,Office Supplies,Labels,Labels Premium,6,9.53,0.0,57.16,20.98
+ORD-100291,2025-08-13,East,Corporate,Office Supplies,Paper,Paper Pro,3,19.89,0.15,50.72,5.03
+ORD-100837,2025-08-13,Central,Home Office,Furniture,Storage,Storage Basic,3,103.74,0.2,248.99,-10.07
+ORD-100336,2025-08-13,East,Home Office,Office Supplies,Pens,Pens Plus,4,13.73,0.3,38.45,3.81
+ORD-100227,2025-08-14,West,Home Office,Furniture,Storage,Storage Basic,2,104.91,0.15,178.35,4.45
+ORD-100885,2025-08-17,East,Corporate,Technology,Laptops,Laptops Premium,4,883.56,0.05,3357.51,561.87
+ORD-100166,2025-08-18,East,Corporate,Technology,Laptops,Laptops Basic,3,965.73,0.0,2897.2,243.45
+ORD-100514,2025-08-19,South,Home Office,Furniture,Bookcases,Bookcases Pro,4,206.9,0.15,703.47,25.48
+ORD-100741,2025-08-20,Central,Corporate,Furniture,Storage,Storage Premium,4,107.54,0.15,365.62,7.58
+ORD-100849,2025-08-22,East,Corporate,Office Supplies,Binders,Binders Plus,1,26.65,0.05,25.32,6.46
+ORD-100867,2025-08-22,Central,Home Office,Technology,Printers,Printers Basic,3,204.07,0.15,520.37,1.72
+ORD-101025,2025-08-23,Central,Home Office,Office Supplies,Labels,Labels Pro,4,10.13,0.0,40.53,17.65
+ORD-100149,2025-08-23,South,Consumer,Technology,Accessories,Accessories Plus,6,43.12,0.05,245.79,61.87
+ORD-100028,2025-08-24,Central,Corporate,Furniture,Chairs,Chairs Plus,3,182.07,0.0,546.21,60.66
+ORD-100524,2025-08-25,South,Consumer,Furniture,Storage,Storage Basic,3,87.74,0.1,236.91,17.02
+ORD-100605,2025-08-26,East,Consumer,Office Supplies,Pens,Pens Premium,5,10.72,0.2,42.86,-1.46
+ORD-100794,2025-08-26,West,Home Office,Office Supplies,Paper,Paper Pro,1,17.13,0.1,15.42,2.6
+ORD-100433,2025-08-26,South,Consumer,Office Supplies,Binders,Binders Premium,4,22.37,0.0,89.47,25.73
+ORD-101040,2025-08-27,South,Corporate,Office Supplies,Binders,Binders Basic,2,24.42,0.1,43.96,12.55
+ORD-100302,2025-08-27,Central,Consumer,Technology,Phones,Phones Basic,1,461.03,0.0,461.03,80.26
+ORD-100038,2025-08-27,West,Consumer,Office Supplies,Binders,Binders Premium,1,27.02,0.0,27.02,8.26
+ORD-100553,2025-08-28,South,Consumer,Furniture,Desks,Desks Basic,2,302.76,0.1,544.97,19.28
+ORD-100334,2025-08-29,South,Corporate,Office Supplies,Labels,Labels Basic,1,10.19,0.15,8.67,2.22
+ORD-100482,2025-08-29,South,Consumer,Technology,Accessories,Accessories Basic,3,50.33,0.2,120.8,24.03
+ORD-100545,2025-08-30,West,Consumer,Technology,Printers,Printers Plus,4,200.7,0.1,722.53,71.19
+ORD-100388,2025-08-30,Central,Corporate,Furniture,Desks,Desks Pro,1,320.74,0.15,272.63,-1.42
+ORD-100090,2025-08-31,South,Corporate,Office Supplies,Binders,Binders Premium,8,20.76,0.05,157.78,48.99
+ORD-100101,2025-08-31,West,Consumer,Furniture,Storage,Storage Premium,3,92.7,0.2,222.48,3.99
+ORD-100084,2025-08-31,Central,Corporate,Furniture,Chairs,Chairs Plus,3,156.86,0.1,423.52,28.65
+ORD-100582,2025-09-01,South,Consumer,Technology,Accessories,Accessories Plus,3,50.06,0.2,120.14,18.19
+ORD-100611,2025-09-01,West,Consumer,Office Supplies,Pens,Pens Premium,4,12.89,0.0,51.57,16.1
+ORD-101097,2025-09-02,South,Home Office,Technology,Accessories,Accessories Basic,2,49.9,0.1,89.81,24.29
+ORD-100816,2025-09-03,Central,Consumer,Technology,Phones,Phones Plus,1,495.35,0.15,421.05,9.95
+ORD-100589,2025-09-03,East,Home Office,Office Supplies,Labels,Labels Plus,2,8.09,0.0,16.18,6.12
+ORD-101080,2025-09-03,Central,Corporate,Furniture,Storage,Storage Premium,1,83.56,0.1,75.21,4.83
+ORD-100868,2025-09-04,West,Consumer,Technology,Phones,Phones Premium,4,488.86,0.3,1368.81,20.76
+ORD-101016,2025-09-04,East,Corporate,Office Supplies,Labels,Labels Basic,4,9.65,0.0,38.61,11.27
+ORD-101086,2025-09-05,Central,Home Office,Office Supplies,Pens,Pens Basic,3,12.03,0.15,30.69,6.43
+ORD-100019,2025-09-05,South,Corporate,Office Supplies,Labels,Labels Plus,1,7.7,0.0,7.7,2.54
+ORD-101125,2025-09-06,East,Corporate,Office Supplies,Labels,Labels Basic,5,8.09,0.05,38.43,11.06
+ORD-100963,2025-09-06,West,Home Office,Furniture,Storage,Storage Premium,2,88.14,0.2,141.02,12.65
+ORD-100459,2025-09-06,West,Corporate,Office Supplies,Paper,Paper Premium,1,18.84,0.0,18.84,5.81
+ORD-100513,2025-09-06,Central,Corporate,Office Supplies,Binders,Binders Plus,6,24.91,0.1,134.53,28.37
+ORD-100093,2025-09-07,South,Consumer,Office Supplies,Paper,Paper Premium,2,17.77,0.0,35.55,10.0
+ORD-101024,2025-09-07,East,Corporate,Technology,Printers,Printers Plus,2,207.28,0.0,414.55,37.12
+ORD-100590,2025-09-08,West,Consumer,Technology,Printers,Printers Pro,2,199.57,0.1,359.22,4.42
+ORD-101126,2025-09-08,West,Home Office,Furniture,Chairs,Chairs Pro,5,173.19,0.0,865.93,92.59
+ORD-101093,2025-09-08,West,Corporate,Furniture,Chairs,Chairs Basic,2,163.71,0.15,278.31,14.1
+ORD-100723,2025-09-09,West,Home Office,Furniture,Bookcases,Bookcases Basic,4,182.3,0.0,729.19,71.93
+ORD-101144,2025-09-09,Central,Home Office,Technology,Phones,Phones Pro,2,505.7,0.2,809.12,-74.29
+ORD-100775,2025-09-10,West,Home Office,Office Supplies,Labels,Labels Basic,2,9.05,0.05,17.2,6.06
+ORD-100865,2025-09-10,Central,Home Office,Technology,Accessories,Accessories Premium,10,38.41,0.05,364.94,103.21
+ORD-100361,2025-09-10,Central,Home Office,Technology,Printers,Printers Basic,1,189.26,0.15,160.87,-0.37
+ORD-100477,2025-09-11,East,Corporate,Technology,Phones,Phones Premium,3,421.79,0.2,1012.3,33.3
+ORD-101163,2025-09-11,West,Corporate,Office Supplies,Paper,Paper Basic,1,16.1,0.2,12.88,1.89
+ORD-100856,2025-09-12,South,Consumer,Furniture,Chairs,Chairs Premium,4,156.3,0.1,562.68,57.48
+ORD-100650,2025-09-12,South,Home Office,Furniture,Desks,Desks Pro,1,315.67,0.2,252.54,3.25
+ORD-100297,2025-09-13,South,Consumer,Technology,Laptops,Laptops Pro,3,901.49,0.1,2434.01,225.6
+ORD-101007,2025-09-13,East,Home Office,Office Supplies,Binders,Binders Pro,3,27.18,0.05,77.45,17.94
+ORD-101158,2025-09-13,West,Consumer,Furniture,Bookcases,Bookcases Pro,4,168.54,0.1,606.76,-10.54
+ORD-100780,2025-09-13,East,Home Office,Office Supplies,Labels,Labels Pro,2,9.4,0.05,17.86,7.47
+ORD-101150,2025-09-14,South,Consumer,Technology,Laptops,Laptops Basic,1,891.38,0.1,802.24,111.08
+ORD-100882,2025-09-14,South,Corporate,Office Supplies,Pens,Pens Premium,1,11.35,0.1,10.22,2.37
+ORD-100560,2025-09-14,Central,Home Office,Office Supplies,Binders,Binders Basic,3,23.8,0.1,64.27,13.76
+ORD-100146,2025-09-15,East,Consumer,Technology,Phones,Phones Plus,3,390.53,0.3,820.11,18.6
+ORD-101127,2025-09-16,West,Consumer,Technology,Accessories,Accessories Premium,1,44.58,0.15,37.89,8.5
+ORD-100835,2025-09-16,West,Consumer,Furniture,Storage,Storage Pro,5,98.19,0.1,441.83,55.28
+ORD-100643,2025-09-16,South,Corporate,Office Supplies,Labels,Labels Pro,3,8.71,0.15,22.21,5.2
+ORD-100125,2025-09-17,Central,Consumer,Furniture,Storage,Storage Premium,3,82.22,0.1,221.98,25.13
+ORD-100151,2025-09-17,East,Consumer,Office Supplies,Pens,Pens Basic,6,10.56,0.3,44.35,-5.45
+ORD-101042,2025-09-18,South,Consumer,Furniture,Storage,Storage Plus,4,85.56,0.0,342.22,62.62
+ORD-100232,2025-09-18,Central,Consumer,Technology,Phones,Phones Basic,2,401.41,0.2,642.25,0.91
+ORD-100610,2025-09-18,South,Consumer,Office Supplies,Binders,Binders Basic,1,25.45,0.05,24.18,6.8
+ORD-100037,2025-09-19,South,Consumer,Technology,Laptops,Laptops Premium,1,957.12,0.1,861.41,74.98
+ORD-100006,2025-09-19,East,Corporate,Furniture,Desks,Desks Basic,3,316.64,0.3,664.94,-104.48
+ORD-100668,2025-09-21,South,Consumer,Office Supplies,Paper,Paper Premium,1,19.52,0.3,13.67,0.29
+ORD-100427,2025-09-23,Central,Consumer,Technology,Accessories,Accessories Pro,5,47.95,0.2,191.79,22.31
+ORD-100829,2025-09-23,East,Corporate,Technology,Accessories,Accessories Basic,4,43.86,0.1,157.9,43.47
+ORD-101023,2025-09-26,South,Home Office,Technology,Accessories,Accessories Plus,1,50.59,0.2,40.47,6.56
+ORD-100504,2025-09-26,South,Consumer,Furniture,Bookcases,Bookcases Premium,6,189.4,0.15,965.96,-7.15
+ORD-100492,2025-09-26,West,Home Office,Office Supplies,Binders,Binders Premium,2,25.03,0.0,50.06,19.21
+ORD-100921,2025-09-29,West,Consumer,Technology,Printers,Printers Pro,10,210.46,0.1,1894.18,107.32
+ORD-100396,2025-10-01,West,Home Office,Office Supplies,Binders,Binders Pro,5,25.85,0.3,90.46,8.92
+ORD-100558,2025-10-01,West,Consumer,Office Supplies,Paper,Paper Basic,2,18.26,0.0,36.53,10.52
+ORD-100781,2025-10-03,South,Corporate,Office Supplies,Paper,Paper Premium,1,16.3,0.0,16.3,4.14
+ORD-100812,2025-10-04,South,Home Office,Technology,Phones,Phones Basic,2,386.42,0.0,772.85,132.2
+ORD-100517,2025-10-06,West,Consumer,Office Supplies,Pens,Pens Pro,1,12.7,0.2,10.16,-1.16
+ORD-101141,2025-10-06,Central,Home Office,Office Supplies,Paper,Paper Basic,4,20.4,0.0,81.6,26.94
+ORD-100904,2025-10-08,South,Consumer,Office Supplies,Labels,Labels Plus,4,8.99,0.0,35.95,12.2
+ORD-100375,2025-10-09,South,Corporate,Office Supplies,Labels,Labels Plus,3,7.93,0.0,23.79,9.65
+ORD-101004,2025-10-09,South,Corporate,Technology,Printers,Printers Pro,3,239.3,0.2,574.32,7.44
+ORD-100035,2025-10-11,East,Consumer,Technology,Phones,Phones Basic,2,415.24,0.05,788.95,71.1
+ORD-100565,2025-10-11,Central,Home Office,Technology,Printers,Printers Plus,4,193.04,0.3,540.52,-42.47
+ORD-100362,2025-10-13,South,Corporate,Technology,Phones,Phones Pro,5,498.18,0.1,2241.79,172.76
+ORD-100389,2025-10-13,East,Home Office,Office Supplies,Paper,Paper Basic,6,18.61,0.15,94.9,16.18
+ORD-100358,2025-10-13,East,Corporate,Office Supplies,Labels,Labels Pro,2,9.71,0.15,16.52,4.45
+ORD-100048,2025-10-14,West,Home Office,Technology,Phones,Phones Pro,1,476.07,0.0,476.07,92.31
+ORD-100364,2025-10-15,West,Consumer,Furniture,Chairs,Chairs Pro,2,156.4,0.05,297.17,31.11
+ORD-100579,2025-10-15,South,Home Office,Furniture,Chairs,Chairs Plus,2,165.22,0.1,297.4,16.52
+ORD-100828,2025-10-17,East,Corporate,Furniture,Storage,Storage Premium,2,88.02,0.1,158.44,17.26
+ORD-100304,2025-10-17,West,Corporate,Office Supplies,Pens,Pens Basic,3,13.09,0.0,39.27,13.75
+ORD-100740,2025-10-18,East,Consumer,Furniture,Bookcases,Bookcases Premium,1,180.68,0.15,153.58,-5.32
+ORD-100095,2025-10-18,East,Home Office,Office Supplies,Labels,Labels Premium,2,8.89,0.15,15.12,3.52
+ORD-100179,2025-10-20,South,Home Office,Technology,Laptops,Laptops Plus,8,983.42,0.1,7080.64,1062.68
+ORD-100220,2025-10-21,South,Home Office,Technology,Laptops,Laptops Basic,2,849.74,0.15,1444.56,75.31
+ORD-101037,2025-10-21,Central,Corporate,Furniture,Chairs,Chairs Plus,6,178.46,0.0,1070.74,160.44
+ORD-100592,2025-10-21,West,Consumer,Office Supplies,Pens,Pens Plus,3,10.55,0.2,25.33,4.53
+ORD-100345,2025-10-23,South,Home Office,Office Supplies,Paper,Paper Pro,4,18.94,0.0,75.78,22.0
+ORD-100067,2025-10-23,East,Home Office,Office Supplies,Binders,Binders Basic,1,23.24,0.05,22.08,5.81
+ORD-101108,2025-10-25,Central,Corporate,Office Supplies,Binders,Binders Premium,5,25.19,0.15,107.08,18.44
+ORD-100843,2025-10-26,South,Corporate,Office Supplies,Labels,Labels Plus,1,8.61,0.15,7.32,2.1
+ORD-101154,2025-10-26,West,Consumer,Technology,Accessories,Accessories Plus,6,42.93,0.1,231.83,46.06
+ORD-100202,2025-10-26,Central,Consumer,Office Supplies,Labels,Labels Premium,8,7.94,0.0,63.52,19.23
+ORD-100840,2025-10-27,South,Consumer,Furniture,Desks,Desks Plus,6,281.83,0.0,1690.96,199.01
+ORD-100943,2025-10-29,West,Corporate,Furniture,Desks,Desks Premium,1,338.22,0.05,321.31,32.98
+ORD-100529,2025-10-31,East,Corporate,Office Supplies,Paper,Paper Basic,3,15.86,0.05,45.21,10.55
+ORD-100642,2025-10-31,South,Corporate,Office Supplies,Paper,Paper Premium,1,18.93,0.1,17.04,3.01
+ORD-100324,2025-10-31,West,Consumer,Office Supplies,Binders,Binders Plus,1,25.83,0.1,23.24,5.43
+ORD-100153,2025-11-01,South,Corporate,Furniture,Bookcases,Bookcases Premium,10,174.67,0.0,1746.68,219.22
+ORD-101170,2025-11-01,Central,Consumer,Office Supplies,Pens,Pens Basic,3,12.11,0.1,32.71,9.73
+ORD-100669,2025-11-02,West,Home Office,Technology,Phones,Phones Basic,1,443.4,0.15,376.89,16.62
+ORD-100804,2025-11-02,South,Corporate,Office Supplies,Labels,Labels Premium,6,9.87,0.05,56.25,14.26
+ORD-101103,2025-11-02,West,Corporate,Office Supplies,Paper,Paper Basic,2,15.52,0.05,29.48,7.49
+ORD-100715,2025-11-03,East,Home Office,Office Supplies,Binders,Binders Pro,2,20.81,0.2,33.3,2.78
+ORD-100969,2025-11-03,West,Consumer,Technology,Laptops,Laptops Premium,2,1014.51,0.1,1826.12,125.06
+ORD-101081,2025-11-03,Central,Home Office,Office Supplies,Paper,Paper Pro,3,16.04,0.1,43.32,8.94
+ORD-100530,2025-11-04,West,Corporate,Furniture,Bookcases,Bookcases Basic,1,183.07,0.1,164.77,-0.81
+ORD-101006,2025-11-04,East,Corporate,Office Supplies,Labels,Labels Basic,1,8.24,0.15,7.0,0.97
+ORD-100733,2025-11-04,East,Consumer,Office Supplies,Labels,Labels Basic,2,9.8,0.15,16.66,4.62
+ORD-100527,2025-11-05,West,Corporate,Furniture,Chairs,Chairs Pro,2,181.1,0.15,307.87,2.9
+ORD-100061,2025-11-05,West,Home Office,Technology,Phones,Phones Premium,3,481.2,0.15,1227.07,99.83
+ORD-101067,2025-11-07,West,Home Office,Technology,Laptops,Laptops Pro,5,966.5,0.05,4590.86,707.6
+ORD-100264,2025-11-07,Central,Corporate,Technology,Printers,Printers Basic,5,201.25,0.2,805.0,-12.59
+ORD-100452,2025-11-07,South,Consumer,Furniture,Storage,Storage Basic,5,81.1,0.05,385.24,49.5
+ORD-100586,2025-11-07,South,Corporate,Office Supplies,Paper,Paper Pro,2,16.31,0.15,27.72,5.12
+ORD-100577,2025-11-07,Central,Corporate,Office Supplies,Paper,Paper Pro,1,17.72,0.15,15.06,2.35
+ORD-100499,2025-11-08,Central,Corporate,Office Supplies,Labels,Labels Basic,3,9.08,0.0,27.24,11.3
+ORD-100024,2025-11-08,West,Corporate,Office Supplies,Pens,Pens Premium,2,10.76,0.05,20.44,7.89
+ORD-101182,2025-11-08,South,Consumer,Furniture,Bookcases,Bookcases Basic,3,172.46,0.1,465.64,22.7
+ORD-100438,2025-11-09,Central,Consumer,Furniture,Bookcases,Bookcases Plus,1,173.16,0.0,173.16,13.82
+ORD-100421,2025-11-09,East,Corporate,Furniture,Desks,Desks Pro,5,325.36,0.0,1626.82,229.93
+ORD-100862,2025-11-09,Central,Corporate,Technology,Printers,Printers Premium,1,191.94,0.0,191.94,31.62
+ORD-101143,2025-11-11,South,Corporate,Office Supplies,Pens,Pens Pro,3,10.29,0.3,21.62,2.48
+ORD-100693,2025-11-11,South,Consumer,Technology,Phones,Phones Pro,3,450.53,0.15,1148.85,57.49
+ORD-100722,2025-11-11,West,Corporate,Office Supplies,Binders,Binders Basic,8,23.15,0.1,166.65,42.2
+ORD-100470,2025-11-13,West,Home Office,Office Supplies,Pens,Pens Pro,3,11.18,0.15,28.5,4.39
+ORD-100491,2025-11-13,Central,Consumer,Technology,Printers,Printers Plus,5,217.91,0.15,926.14,1.88
+ORD-100409,2025-11-14,West,Home Office,Office Supplies,Labels,Labels Plus,5,9.0,0.1,40.51,13.38
+ORD-100764,2025-11-15,Central,Consumer,Technology,Laptops,Laptops Premium,3,932.43,0.0,2797.29,484.29
+ORD-100754,2025-11-15,West,Corporate,Office Supplies,Labels,Labels Premium,1,9.12,0.15,7.75,1.79
+ORD-100382,2025-11-15,Central,Corporate,Technology,Phones,Phones Pro,3,390.69,0.05,1113.45,119.73
+ORD-100680,2025-11-15,East,Consumer,Technology,Phones,Phones Plus,4,449.54,0.1,1618.33,191.18
+ORD-100348,2025-11-15,East,Corporate,Furniture,Storage,Storage Plus,2,94.85,0.0,189.69,39.94
+ORD-100181,2025-11-16,South,Corporate,Office Supplies,Pens,Pens Premium,3,10.33,0.1,27.89,6.88
+ORD-100286,2025-11-16,East,Corporate,Furniture,Storage,Storage Premium,3,86.93,0.0,260.8,29.2
+ORD-100319,2025-11-17,Central,Home Office,Technology,Printers,Printers Plus,10,211.35,0.15,1796.5,59.53
+ORD-100081,2025-11-18,Central,Home Office,Office Supplies,Pens,Pens Premium,2,13.26,0.15,22.55,6.26
+ORD-100936,2025-11-18,East,Consumer,Furniture,Chairs,Chairs Pro,1,182.72,0.0,182.72,35.82
+ORD-101109,2025-11-18,Central,Corporate,Technology,Accessories,Accessories Premium,2,38.82,0.05,73.76,23.93
+ORD-100926,2025-11-22,East,Home Office,Furniture,Desks,Desks Premium,2,287.4,0.2,459.84,-3.05
+ORD-100694,2025-11-22,Central,Corporate,Office Supplies,Pens,Pens Pro,1,13.12,0.3,9.19,1.34
+ORD-100383,2025-11-23,East,Home Office,Office Supplies,Binders,Binders Pro,2,21.82,0.05,41.45,10.62
+ORD-100949,2025-11-23,Central,Corporate,Office Supplies,Paper,Paper Pro,8,15.75,0.1,113.39,24.67
+ORD-100763,2025-11-24,East,Consumer,Technology,Laptops,Laptops Premium,4,1021.3,0.05,3880.93,352.29
+ORD-100965,2025-11-24,South,Consumer,Furniture,Chairs,Chairs Premium,5,138.38,0.15,588.11,15.31
+ORD-100571,2025-11-24,Central,Home Office,Furniture,Chairs,Chairs Premium,2,172.71,0.3,241.79,-17.86
+ORD-100640,2025-11-24,South,Consumer,Office Supplies,Pens,Pens Pro,2,13.38,0.1,24.08,5.46
+ORD-100776,2025-11-26,West,Home Office,Technology,Laptops,Laptops Basic,4,823.82,0.1,2965.74,151.66
+ORD-100340,2025-11-27,East,Home Office,Office Supplies,Pens,Pens Pro,2,10.53,0.1,18.95,5.41
+ORD-100671,2025-11-27,West,Consumer,Office Supplies,Labels,Labels Pro,4,8.49,0.05,32.25,8.45
+ORD-100293,2025-11-28,Central,Consumer,Technology,Phones,Phones Basic,3,516.19,0.3,1083.99,-30.42
+ORD-100448,2025-11-29,East,Consumer,Office Supplies,Pens,Pens Premium,1,12.23,0.0,12.23,4.44
+ORD-100684,2025-12-01,East,Corporate,Furniture,Storage,Storage Pro,6,91.61,0.0,549.64,94.67
+ORD-101054,2025-12-01,East,Home Office,Technology,Laptops,Laptops Basic,3,811.37,0.2,1947.3,-86.87
+ORD-100274,2025-12-01,Central,Corporate,Office Supplies,Labels,Labels Plus,5,8.06,0.0,40.32,16.6
+ORD-101083,2025-12-01,West,Consumer,Office Supplies,Pens,Pens Pro,2,12.76,0.1,22.98,6.1
+ORD-100195,2025-12-02,East,Home Office,Office Supplies,Pens,Pens Plus,2,10.75,0.0,21.51,6.94
+ORD-100451,2025-12-02,West,Consumer,Technology,Laptops,Laptops Premium,4,1023.68,0.0,4094.74,528.86
+ORD-100683,2025-12-02,West,Consumer,Furniture,Chairs,Chairs Pro,1,172.74,0.1,155.46,8.56
+ORD-100515,2025-12-02,West,Corporate,Office Supplies,Labels,Labels Pro,1,7.97,0.1,7.17,1.6
+ORD-100751,2025-12-03,Central,Consumer,Technology,Printers,Printers Pro,3,224.23,0.0,672.69,86.1
+ORD-100649,2025-12-03,East,Consumer,Office Supplies,Labels,Labels Basic,1,8.09,0.2,6.47,1.34
+ORD-100503,2025-12-04,West,Home Office,Furniture,Chairs,Chairs Plus,5,139.88,0.2,559.51,-6.84
+ORD-100200,2025-12-04,South,Corporate,Office Supplies,Pens,Pens Pro,1,12.55,0.05,11.92,3.23
+ORD-100999,2025-12-04,West,Home Office,Furniture,Storage,Storage Premium,4,91.11,0.05,346.21,49.52
+ORD-100853,2025-12-05,East,Corporate,Office Supplies,Paper,Paper Basic,1,18.17,0.0,18.17,5.94
+ORD-100337,2025-12-05,South,Home Office,Office Supplies,Binders,Binders Basic,3,22.82,0.0,68.46,23.23
+ORD-100466,2025-12-07,East,Home Office,Office Supplies,Pens,Pens Plus,1,13.59,0.1,12.23,3.45
+ORD-100609,2025-12-07,Central,Consumer,Furniture,Chairs,Chairs Basic,2,139.0,0.0,278.01,33.8
+ORD-100797,2025-12-08,South,Corporate,Technology,Accessories,Accessories Basic,1,41.81,0.1,37.63,9.74
+ORD-100861,2025-12-08,Central,Corporate,Furniture,Desks,Desks Pro,1,292.77,0.2,234.22,12.71
+ORD-100064,2025-12-08,West,Consumer,Office Supplies,Labels,Labels Basic,1,8.67,0.3,6.07,1.19
+ORD-100355,2025-12-09,South,Consumer,Technology,Printers,Printers Plus,1,212.42,0.05,201.8,1.42
+ORD-100208,2025-12-09,East,Corporate,Technology,Laptops,Laptops Premium,4,935.39,0.2,2993.24,216.97
+ORD-100417,2025-12-09,South,Corporate,Furniture,Storage,Storage Premium,5,97.63,0.0,488.13,79.73
+ORD-100046,2025-12-10,South,Corporate,Technology,Phones,Phones Premium,1,480.4,0.0,480.4,114.75
+ORD-100404,2025-12-11,East,Consumer,Furniture,Desks,Desks Premium,1,338.22,0.1,304.4,24.17
+ORD-100959,2025-12-11,South,Home Office,Technology,Phones,Phones Premium,1,405.09,0.1,364.58,47.94
+ORD-100947,2025-12-12,East,Corporate,Technology,Phones,Phones Premium,5,399.3,0.0,1996.5,338.14
+ORD-100441,2025-12-12,Central,Corporate,Furniture,Bookcases,Bookcases Pro,1,204.79,0.1,184.31,6.39
+ORD-100325,2025-12-13,West,Corporate,Furniture,Storage,Storage Pro,2,95.57,0.2,152.92,-2.43
+ORD-100012,2025-12-14,East,Home Office,Technology,Accessories,Accessories Pro,1,50.34,0.1,45.31,13.26
+ORD-100914,2025-12-17,West,Consumer,Furniture,Storage,Storage Plus,6,84.01,0.0,504.04,83.3
+ORD-100594,2025-12-17,South,Home Office,Technology,Laptops,Laptops Pro,2,1033.92,0.0,2067.85,269.68
+ORD-100894,2025-12-17,South,Consumer,Furniture,Bookcases,Bookcases Pro,8,173.09,0.2,1107.76,15.83
+ORD-100851,2025-12-17,East,Corporate,Office Supplies,Paper,Paper Premium,3,16.72,0.15,42.64,4.56
+ORD-101198,2025-12-18,West,Home Office,Furniture,Desks,Desks Plus,1,357.33,0.0,357.33,34.04
+ORD-100141,2025-12-19,East,Consumer,Office Supplies,Paper,Paper Pro,3,17.56,0.0,52.68,14.59
+ORD-100555,2025-12-20,East,Consumer,Office Supplies,Binders,Binders Basic,1,24.04,0.3,16.83,0.56
+ORD-100772,2025-12-22,Central,Home Office,Technology,Accessories,Accessories Plus,1,47.77,0.2,38.21,6.17
+ORD-101082,2025-12-24,East,Home Office,Office Supplies,Paper,Paper Pro,1,19.62,0.0,19.62,5.32
+ORD-100265,2025-12-24,Central,Corporate,Furniture,Chairs,Chairs Premium,2,137.3,0.0,274.61,27.6
+ORD-101088,2025-12-24,East,Home Office,Furniture,Bookcases,Bookcases Pro,5,200.29,0.15,851.25,-51.37
+ORD-100347,2025-12-25,West,Consumer,Technology,Phones,Phones Premium,2,459.71,0.2,735.54,34.88
+ORD-100145,2025-12-26,East,Home Office,Office Supplies,Paper,Paper Plus,4,20.11,0.0,80.43,26.83
+ORD-100356,2025-12-26,West,Corporate,Office Supplies,Paper,Paper Premium,2,15.44,0.0,30.87,7.4
+ORD-101056,2025-12-28,East,Consumer,Technology,Laptops,Laptops Pro,5,901.66,0.0,4508.3,580.46
+ORD-100511,2025-12-28,South,Home Office,Office Supplies,Binders,Binders Premium,4,27.13,0.1,97.67,21.4
+ORD-101117,2025-12-28,West,Home Office,Office Supplies,Labels,Labels Premium,4,9.49,0.15,32.27,7.88
+ORD-100161,2025-12-29,South,Consumer,Office Supplies,Paper,Paper Pro,3,17.17,0.05,48.93,11.8
+ORD-100810,2025-12-29,Central,Home Office,Technology,Printers,Printers Plus,1,205.57,0.15,174.73,11.71
+ORD-100691,2025-12-29,South,Corporate,Furniture,Desks,Desks Premium,3,321.85,0.05,917.26,120.02
+ORD-100401,2025-12-30,West,Corporate,Office Supplies,Pens,Pens Pro,1,10.49,0.1,9.44,2.54
+ORD-101169,2025-12-30,South,Corporate,Office Supplies,Paper,Paper Premium,3,20.24,0.15,51.62,9.52
+ORD-100820,2025-12-31,East,Home Office,Office Supplies,Pens,Pens Pro,8,11.36,0.1,81.78,24.44
